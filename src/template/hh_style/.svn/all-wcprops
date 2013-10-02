@@ -1,0 +1,209 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/hhspots/!svn/ver/4/hhmain/src/template/hh_style
+END
+debug.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/hhspots/!svn/ver/4/hhmain/src/template/hh_style/debug.ftl
+END
+submit.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/hhspots/!svn/ver/4/hhmain/src/template/hh_style/submit.ftl
+END
+password.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/hhspots/!svn/ver/4/hhmain/src/template/hh_style/password.ftl
+END
+optiontransferselect.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/hhspots/!svn/ver/4/hhmain/src/template/hh_style/optiontransferselect.ftl
+END
+control.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/hhspots/!svn/ver/4/hhmain/src/template/hh_style/control.ftl
+END
+head.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/hhspots/!svn/ver/4/hhmain/src/template/hh_style/head.ftl
+END
+checkboxlist.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/hhspots/!svn/ver/4/hhmain/src/template/hh_style/checkboxlist.ftl
+END
+controlheader-core.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/hhspots/!svn/ver/4/hhmain/src/template/hh_style/controlheader-core.ftl
+END
+controlheader.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/hhspots/!svn/ver/4/hhmain/src/template/hh_style/controlheader.ftl
+END
+text.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/hhspots/!svn/ver/4/hhmain/src/template/hh_style/text.ftl
+END
+validation.js
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/hhspots/!svn/ver/4/hhmain/src/template/hh_style/validation.js
+END
+form-close.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/hhspots/!svn/ver/4/hhmain/src/template/hh_style/form-close.ftl
+END
+inputtransferselect.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/hhspots/!svn/ver/4/hhmain/src/template/hh_style/inputtransferselect.ftl
+END
+form-close-validate.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/hhspots/!svn/ver/4/hhmain/src/template/hh_style/form-close-validate.ftl
+END
+label.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/hhspots/!svn/ver/4/hhmain/src/template/hh_style/label.ftl
+END
+controlfooter.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/hhspots/!svn/ver/4/hhmain/src/template/hh_style/controlfooter.ftl
+END
+updownselect.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/hhspots/!svn/ver/4/hhmain/src/template/hh_style/updownselect.ftl
+END
+textarea.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/hhspots/!svn/ver/4/hhmain/src/template/hh_style/textarea.ftl
+END
+file.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/hhspots/!svn/ver/4/hhmain/src/template/hh_style/file.ftl
+END
+select.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/hhspots/!svn/ver/4/hhmain/src/template/hh_style/select.ftl
+END
+combobox.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/hhspots/!svn/ver/4/hhmain/src/template/hh_style/combobox.ftl
+END
+controlheader-trlogic.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/hhspots/!svn/ver/4/hhmain/src/template/hh_style/controlheader-trlogic.ftl
+END
+form-validate.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/hhspots/!svn/ver/4/hhmain/src/template/hh_style/form-validate.ftl
+END
+radiomap.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/hhspots/!svn/ver/4/hhmain/src/template/hh_style/radiomap.ftl
+END
+submit-close.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/hhspots/!svn/ver/4/hhmain/src/template/hh_style/submit-close.ftl
+END
+checkbox.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/hhspots/!svn/ver/4/hhmain/src/template/hh_style/checkbox.ftl
+END
+tooltip.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/hhspots/!svn/ver/4/hhmain/src/template/hh_style/tooltip.ftl
+END
+form.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/hhspots/!svn/ver/4/hhmain/src/template/hh_style/form.ftl
+END
+styles.css
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/hhspots/!svn/ver/4/hhmain/src/template/hh_style/styles.css
+END
+theme.properties
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/hhspots/!svn/ver/4/hhmain/src/template/hh_style/theme.properties
+END
+control-close.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/hhspots/!svn/ver/4/hhmain/src/template/hh_style/control-close.ftl
+END
+controlfooter-trlogic.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/hhspots/!svn/ver/4/hhmain/src/template/hh_style/controlfooter-trlogic.ftl
+END
+doubleselect.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/hhspots/!svn/ver/4/hhmain/src/template/hh_style/doubleselect.ftl
+END
+reset.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/hhspots/!svn/ver/4/hhmain/src/template/hh_style/reset.ftl
+END

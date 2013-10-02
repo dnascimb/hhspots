@@ -1,0 +1,28 @@
+<!DOCTYPE validators PUBLIC
+"-//OpenSymphony Group//XWork Validator 1.0//EN"
+"http://www.opensymphony.com/xwork/xwork-validator-1.0.2.dtd">
+<validators>
+    <field name="hotspot.name">
+        <field-validator type="stringlength">
+        	<param name="minLength">1</param>
+            <param name="maxLength">255</param>
+        	<param name="trim">true</param>
+            <message>Name must be less than 256 characters</message>
+        </field-validator>
+    </field>
+    <field name="hotspot.address1">
+        <field-validator type="stringlength">
+        	<param name="minLength">1</param>
+            <param name="maxLength">255</param>
+        	<param name="trim">true</param>
+            <message>Address 1 must be less than 256 characters</message>
+        </field-validator>
+    </field>
+    <field name="hotspot.url">
+        <field-validator type="url">
+            <message>URL is not written correctly</message>
+        </field-validator>
+    </field>
+    
+    
+</validators>

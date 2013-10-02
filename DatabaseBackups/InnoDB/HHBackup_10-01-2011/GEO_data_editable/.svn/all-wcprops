@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/hhspots/!svn/ver/161/hhmain/DatabaseBackups/InnoDB/HHBackup_10-01-2011/GEO_data_editable
+END
+hh_GEOCountries.sql
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/hhspots/!svn/ver/161/hhmain/DatabaseBackups/InnoDB/HHBackup_10-01-2011/GEO_data_editable/hh_GEOCountries.sql
+END
+hh_GEOCities.sql
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/hhspots/!svn/ver/161/hhmain/DatabaseBackups/InnoDB/HHBackup_10-01-2011/GEO_data_editable/hh_GEOCities.sql
+END
+hh_GEODmas.sql
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/hhspots/!svn/ver/161/hhmain/DatabaseBackups/InnoDB/HHBackup_10-01-2011/GEO_data_editable/hh_GEODmas.sql
+END
+hh_GEORegions.sql
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/hhspots/!svn/ver/161/hhmain/DatabaseBackups/InnoDB/HHBackup_10-01-2011/GEO_data_editable/hh_GEORegions.sql
+END

@@ -1,0 +1,13 @@
+
+
+
+@import url('/s/1634/1/5/_/styles/colors.css?spaceKey=mottos');
+
+    /* Including stylesheet [ completeModuleKey='com.atlassian.confluence.themes.clickr:clickr', name='clickr-theme.css', location='styles/clickr-theme.css' ] */
+
+            @import url('/s/1634/1/1/_/download/resources/com.atlassian.confluence.themes.clickr:clickr/clickr-theme.css');
+        /* Including stylesheet [ completeModuleKey='com.atlassian.confluence.themes.clickr:clickr', name='clickr-colors.css', location='templates/clickr/clickr-colors.vm' ] */
+
+            @import url('/s/1634/1/5/_/styles/theme-colors.css?completeModuleKey=com.atlassian.confluence.themes.clickr:clickr&stylesheetName=clickr-colors.css&spaceKey=mottos');
+    
+@import url('/s/1634/1/5/_/styles/custom.css?spaceKey=mottos');

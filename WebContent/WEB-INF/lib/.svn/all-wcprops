@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/hhspots/!svn/ver/139/hhmain/WebContent/WEB-INF/lib
+END
+xwork-core-2.1.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/hhspots/!svn/ver/5/hhmain/WebContent/WEB-INF/lib/xwork-core-2.1.6.jar
+END
+struts2-dwr-plugin-2.1.8.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/hhspots/!svn/ver/5/hhmain/WebContent/WEB-INF/lib/struts2-dwr-plugin-2.1.8.1.jar
+END
+commons-lang3-3.0-beta.jar
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/hhspots/!svn/ver/5/hhmain/WebContent/WEB-INF/lib/commons-lang3-3.0-beta.jar
+END
+commons-io-2.0.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/hhspots/!svn/ver/139/hhmain/WebContent/WEB-INF/lib/commons-io-2.0.1.jar
+END
+commons-collections-3.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/hhspots/!svn/ver/5/hhmain/WebContent/WEB-INF/lib/commons-collections-3.1.jar
+END
+commons-lang3-3.0-beta-javadoc.jar
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/hhspots/!svn/ver/5/hhmain/WebContent/WEB-INF/lib/commons-lang3-3.0-beta-javadoc.jar
+END
+slf4j-log4j12-1.5.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/hhspots/!svn/ver/5/hhmain/WebContent/WEB-INF/lib/slf4j-log4j12-1.5.0.jar
+END
+hibernate3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/hhspots/!svn/ver/5/hhmain/WebContent/WEB-INF/lib/hibernate3.jar
+END
+antlr-2.7.6.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/hhspots/!svn/ver/5/hhmain/WebContent/WEB-INF/lib/antlr-2.7.6.jar
+END
+slf4j-api-1.5.8.jar
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/hhspots/!svn/ver/5/hhmain/WebContent/WEB-INF/lib/slf4j-api-1.5.8.jar
+END
+json-rpc-1.0.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/hhspots/!svn/ver/5/hhmain/WebContent/WEB-INF/lib/json-rpc-1.0.jar
+END
+struts2-dojo-plugin-2.1.8.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/hhspots/!svn/ver/5/hhmain/WebContent/WEB-INF/lib/struts2-dojo-plugin-2.1.8.1.jar
+END
+dom4j-1.6.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/hhspots/!svn/ver/5/hhmain/WebContent/WEB-INF/lib/dom4j-1.6.1.jar
+END
+hibernate-annotations.jar
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/hhspots/!svn/ver/5/hhmain/WebContent/WEB-INF/lib/hibernate-annotations.jar
+END
+ehcache-1.2.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/hhspots/!svn/ver/5/hhmain/WebContent/WEB-INF/lib/ehcache-1.2.3.jar
+END
+commons-fileupload-1.2.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/hhspots/!svn/ver/5/hhmain/WebContent/WEB-INF/lib/commons-fileupload-1.2.1.jar
+END
+commons-logging-api-1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/hhspots/!svn/ver/5/hhmain/WebContent/WEB-INF/lib/commons-logging-api-1.1.jar
+END
+hibernate-entitymanager.jar
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/hhspots/!svn/ver/5/hhmain/WebContent/WEB-INF/lib/hibernate-entitymanager.jar
+END
+mysql-connector-java-5.1.10-bin.jar
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/hhspots/!svn/ver/5/hhmain/WebContent/WEB-INF/lib/mysql-connector-java-5.1.10-bin.jar
+END
+log4j-1.2.15.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/hhspots/!svn/ver/5/hhmain/WebContent/WEB-INF/lib/log4j-1.2.15.jar
+END
+struts2-core-2.1.8.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/hhspots/!svn/ver/5/hhmain/WebContent/WEB-INF/lib/struts2-core-2.1.8.1.jar
+END
+mail.jar
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/hhspots/!svn/ver/34/hhmain/WebContent/WEB-INF/lib/mail.jar
+END
+jta-1.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/hhspots/!svn/ver/5/hhmain/WebContent/WEB-INF/lib/jta-1.1.jar
+END
+commons-lang3-3.0-beta-sources.jar
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/hhspots/!svn/ver/5/hhmain/WebContent/WEB-INF/lib/commons-lang3-3.0-beta-sources.jar
+END
+freemarker-2.3.15.jar
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/hhspots/!svn/ver/5/hhmain/WebContent/WEB-INF/lib/freemarker-2.3.15.jar
+END
+hibernate-commons-annotations.jar
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/hhspots/!svn/ver/5/hhmain/WebContent/WEB-INF/lib/hibernate-commons-annotations.jar
+END
+geoipjava-1.2.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/hhspots/!svn/ver/7/hhmain/WebContent/WEB-INF/lib/geoipjava-1.2.3.jar
+END
+ejb3-persistence.jar
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/hhspots/!svn/ver/5/hhmain/WebContent/WEB-INF/lib/ejb3-persistence.jar
+END
+javassist.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/hhspots/!svn/ver/5/hhmain/WebContent/WEB-INF/lib/javassist.jar
+END
+ognl-2.7.3.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/hhspots/!svn/ver/5/hhmain/WebContent/WEB-INF/lib/ognl-2.7.3.jar
+END
+cglib-2.2.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/hhspots/!svn/ver/5/hhmain/WebContent/WEB-INF/lib/cglib-2.2.jar
+END
+struts2-spring-plugin-2.1.8.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/hhspots/!svn/ver/5/hhmain/WebContent/WEB-INF/lib/struts2-spring-plugin-2.1.8.1.jar
+END
+spring.jar
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/hhspots/!svn/ver/5/hhmain/WebContent/WEB-INF/lib/spring.jar
+END
+struts2-jquery-plugin-1.4.jar
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/hhspots/!svn/ver/5/hhmain/WebContent/WEB-INF/lib/struts2-jquery-plugin-1.4.jar
+END
+struts2-json-plugin-2.1.8.1.jar
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/hhspots/!svn/ver/5/hhmain/WebContent/WEB-INF/lib/struts2-json-plugin-2.1.8.1.jar
+END

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:aop="http://www.springframework.org/schema/aop"
+    xmlns:tx="http://www.springframework.org/schema/tx"
+    xsi:schemaLocation="
+    http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-2.0.xsd
+    http://www.springframework.org/schema/tx http://www.springframework.org/schema/tx/spring-tx-2.0.xsd
+    http://www.springframework.org/schema/aop http://www.springframework.org/schema/aop/spring-aop-2.0.xsd">
+
+    <bean
+        class="org.springframework.orm.jpa.support.PersistenceAnnotationBeanPostProcessor" />
+
+    <bean id="entityManagerFactory"
+        class="org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean">
+        <property name="dataSource" ref="dataSource" />
+        <property name="jpaVendorAdapter">
+            <bean
+                class="org.springframework.orm.jpa.vendor.HibernateJpaVendorAdapter">
+                <property name="database" value="MYSQL" />
+                <property name="showSql" value="true" />
+            </bean>
+        </property>
+    </bean>
+	
+    <bean id="dataSource"
+        class="org.springframework.jdbc.datasource.DriverManagerDataSource">
+        <property name="driverClassName" value="com.mysql.jdbc.Driver" />
+        <property name="url" value="jdbc:mysql://localhost/hh" />
+        <property name="username" value="root" />
+        <property name="password" value="" />
+    </bean>
+
+    <bean id="transactionManager"
+        class="org.springframework.orm.jpa.JpaTransactionManager">
+        <property name="entityManagerFactory" ref="entityManagerFactory" />
+    </bean>
+
+    <tx:annotation-driven transaction-manager="transactionManager" />
+
+	<bean id="mailer" class="hottiehotspots.general.HHMailer">
+		<property name="sender"><value>support@thehottiehotspot.com</value></property>
+		<property name="smtpHost"><value>mail.thehottiehotspot.com</value></property>
+		<property name="smtpUser"><value>support+thehottiehotspot.com</value></property>
+		<property name="smtpPassword"><value>35Jellon</value></property>
+		<property name="smtpPort"><value>587</value></property>
+		<property name="debug"><value>true</value></property>
+	</bean>
+
+<!--      E:\workspace\hottiehotspots  on Ed's laptop         -->
+	<bean id="hhProperties" class="hottiehotspots.general.HHProperties">
+		<property name="geoIPDATLocation"><value>/hottiehotspots/GeoLiteCity.dat</value></property>
+		<property name="imageLocation"><value>/Applications/apache-tomcat-7.0.21/webapps/hh-images/</value></property>
+		<property name="imageLocationURL"><value>http://localhost:8080/hh-images/</value></property>
+		<property name="imageStockURL"><value>http://localhost:8080/hh-images/0_profile.png</value></property>
+	</bean>
+	
+<!--     SERVICES     -->
+ 	<bean id="userService" class="hottiehotspots.service.UserServiceImpl" />
+ 	<bean id="loginService" class="hottiehotspots.service.LoginServiceImpl" />
+ 	<bean id="hotspotService" class="hottiehotspots.service.HotspotServiceImpl" />
+ 	<bean id="locationService" class="hottiehotspots.service.LocationServiceImpl" />
+ 	<bean id="hotspotTemperatureService" class="hottiehotspots.service.HotspotTemperatureServiceImpl" />
+	<bean id="geoCitiesService" class="hottiehotspots.service.GEOCitiesServiceImpl" />
+	<bean id="geoRegionsService" class="hottiehotspots.service.GEORegionsServiceImpl" />
+	<bean id="geoCountriesService" class="hottiehotspots.service.GEOCountriesServiceImpl" />
+	<bean id="labelService" class="hottiehotspots.service.LabelServiceImpl" />
+
+<!--      ACTIONS       -->
+    <bean id="registerAction" scope="prototype"
+        class="hottiehotspots.action.RegisterAction">
+         <constructor-arg ref="userService" />
+    </bean>
+    <bean id="loginAction" scope="prototype"
+        class="hottiehotspots.action.LoginAction">
+         <constructor-arg ref="loginService" />
+    </bean>
+    <bean id="dashboardAction" scope="prototype"
+        class="hottiehotspots.action.DashboardAction">
+         <constructor-arg ref="locationService" />
+         <constructor-arg ref="userService" />
+         <constructor-arg ref="geoCitiesService" />
+         <constructor-arg ref="hotspotService" />
+    </bean>
+    <bean id="createHotspotAction" scope="prototype"
+        class="hottiehotspots.action.CreateHotspotAction">
+         <constructor-arg ref="hotspotService" />
+    </bean>
+    <bean id="areaAutoCompleter" scope="prototype"
+        class="hottiehotspots.action.AreaAutoCompleter">
+         <constructor-arg ref="geoCitiesService" />
+    </bean>
+    <bean id="profileUPdateAction" scope="prototype"
+        class="hottiehotspots.action.ProfileUpdateAction">
+         <constructor-arg ref="geoCitiesService" />
+         <constructor-arg ref="userService" />
+    </bean>
+
+</beans>

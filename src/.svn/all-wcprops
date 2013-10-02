@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/hhspots/!svn/ver/147/hhmain/src
+END
+hibernate.cfg.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/hhspots/!svn/ver/192/hhmain/src/hibernate.cfg.xml
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/hhspots/!svn/ver/192/hhmain/src/log4j.properties
+END
+struts.xml
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/hhspots/!svn/ver/174/hhmain/src/struts.xml
+END

@@ -1,0 +1,168 @@
+{"responseData": {
+ "results":[
+  {
+   "GsearchResultClass":"GlocalSearch",
+   "viewportmode":"computed",
+   "listingType":"local",
+   "lat":"45.523079",
+   "lng":"-122.691271",
+   "accuracy":"8",
+   "title":"\u003cb\u003eCoffee\u003c/b\u003e House Northwest",
+   "titleNoFormatting":"Coffee House Northwest",
+   "ddUrl":"http://www.google.com/maps?source\u003duds\u0026daddr\u003d1951+West+Burnside+Street,+Portland,+OR+(Coffee+House+Northwest)+@45.523079,-122.691271\u0026saddr\u003d45.521694,-122.691806",
+   "ddUrlToHere":"http://www.google.com/maps?source\u003duds\u0026daddr\u003d1951+West+Burnside+Street,+Portland,+OR+(Coffee+House+Northwest)+@45.523079,-122.691271\u0026iwstate1\u003ddir:to",
+   "ddUrlFromHere":"http://www.google.com/maps?source\u003duds\u0026saddr\u003d1951+West+Burnside+Street,+Portland,+OR+(Coffee+House+Northwest)+@45.523079,-122.691271\u0026iwstate1\u003ddir:from",
+   "streetAddress":"1951 West Burnside Street",
+   "city":"Portland",
+   "region":"OR",
+   "country":"United States",
+   "staticMapUrl":"http://maps.google.com/maps/api/staticmap?maptype\u003droadmap\u0026format\u003dgif\u0026sensor\u003dfalse\u0026size\u003d150x100\u0026zoom\u003d13\u0026markers\u003d45.523079,-122.691271",
+   "url":"http://www.google.com/maps/place?source\u003duds\u0026q\u003dcoffee\u0026cid\u003d9006215634956591488",
+   "content":"",
+   "maxAge":604800,
+   "phoneNumbers":[
+    {
+     "type":"",
+     "number":"(503) 248-2133"
+    }],
+   "addressLines":[
+    "1951 West Burnside Street",
+    "Portland, OR"
+    ]
+   },
+   {
+    "GsearchResultClass":"GlocalSearch",
+    "viewportmode":"computed",
+    "listingType":"local",
+    "lat":"45.523026",
+    "lng":"-122.691685",
+    "accuracy":"5",
+    "title":"Starbucks",
+    "titleNoFormatting":"Starbucks",
+    "ddUrl":"http://www.google.com/maps?source\u003duds\u0026daddr\u003d1972+West+Burnside+St,+Portland,+OR+(Starbucks)+@45.523026,-122.691685\u0026saddr\u003d45.521694,-122.691806",
+    "ddUrlToHere":"http://www.google.com/maps?source\u003duds\u0026daddr\u003d1972+West+Burnside+St,+Portland,+OR+(Starbucks)+@45.523026,-122.691685\u0026iwstate1\u003ddir:to",
+    "ddUrlFromHere":"http://www.google.com/maps?source\u003duds\u0026saddr\u003d1972+West+Burnside+St,+Portland,+OR+(Starbucks)+@45.523026,-122.691685\u0026iwstate1\u003ddir:from",
+    "streetAddress":"1972 West Burnside St",
+    "city":"Portland",
+    "region":"OR",
+    "country":"United States",
+    "staticMapUrl":"http://maps.google.com/maps/api/staticmap?maptype\u003droadmap\u0026format\u003dgif\u0026sensor\u003dfalse\u0026size\u003d150x100\u0026zoom\u003d13\u0026markers\u003d45.523026,-122.691685",
+    "url":"http://www.google.com/maps/place?source\u003duds\u0026q\u003dcoffee\u0026cid\u003d2979052064520571240",
+    "content":"",
+    "maxAge":604800,
+    "phoneNumbers":[
+     {
+      "type":"",
+      "number":"(503) 227-3008"
+     }],
+    "addressLines":[
+     "1972 West Burnside St",
+     "Portland, OR"
+    ]
+   },
+   {
+    "GsearchResultClass":"GlocalSearch",
+    "viewportmode":"computed",
+    "listingType":"local",
+    "lat":"45.526185",
+    "lng":"-122.689029",
+    "accuracy":"8",
+    "title":"World Cup \u003cb\u003eCoffee\u003c/b\u003e \u0026amp; Tea",
+    "titleNoFormatting":"World Cup Coffee \u0026 Tea",
+    "ddUrl":"http://www.google.com/maps?source\u003duds\u0026daddr\u003d1740+NW+Glisan,+Portland,+Or,+OR+(World+Cup+Coffee+%26+Tea)+@45.526185,-122.689029\u0026saddr\u003d45.521694,-122.691806",
+    "ddUrlToHere":"http://www.google.com/maps?source\u003duds\u0026daddr\u003d1740+NW+Glisan,+Portland,+Or,+OR+(World+Cup+Coffee+%26+Tea)+@45.526185,-122.689029\u0026iwstate1\u003ddir:to",
+    "ddUrlFromHere":"http://www.google.com/maps?source\u003duds\u0026saddr\u003d1740+NW+Glisan,+Portland,+Or,+OR+(World+Cup+Coffee+%26+Tea)+@45.526185,-122.689029\u0026iwstate1\u003ddir:from",
+    "streetAddress":"1740 NW Glisan",
+    "city":"Portland, Or",
+    "region":"OR",
+    "country":"United States",
+    "staticMapUrl":"http://maps.google.com/maps/api/staticmap?maptype\u003droadmap\u0026format\u003dgif\u0026sensor\u003dfalse\u0026size\u003d150x100\u0026zoom\u003d13\u0026markers\u003d45.526185,-122.689029",
+    "url":"http://www.google.com/maps/place?source\u003duds\u0026q\u003dcoffee\u0026cid\u003d13205179836039415171",
+    "content":"",
+    "maxAge":604800,
+    "phoneNumbers":[
+     {
+      "type":"",
+      "number":"(503) 228-5503"
+     }],
+    "addressLines":[
+     "1740 NW Glisan",
+     "Portland, Or, OR"
+    ]
+   },
+   {
+    "GsearchResultClass":"GlocalSearch",
+    "viewportmode":"computed",
+    "listingType":"local",
+    "lat":"45.518638",
+    "lng":"-122.693553",
+    "accuracy":"8",
+    "title":"Fehrenbacher Hof",
+    "titleNoFormatting":"Fehrenbacher Hof",
+    "ddUrl":"http://www.google.com/maps?source\u003duds\u0026daddr\u003d1225+Southwest+19th+Avenue,+Portland,+OR+(Fehrenbacher+Hof)+@45.518638,-122.693553\u0026saddr\u003d45.521694,-122.691806",
+    "ddUrlToHere":"http://www.google.com/maps?source\u003duds\u0026daddr\u003d1225+Southwest+19th+Avenue,+Portland,+OR+(Fehrenbacher+Hof)+@45.518638,-122.693553\u0026iwstate1\u003ddir:to",
+    "ddUrlFromHere":"http://www.google.com/maps?source\u003duds\u0026saddr\u003d1225+Southwest+19th+Avenue,+Portland,+OR+(Fehrenbacher+Hof)+@45.518638,-122.693553\u0026iwstate1\u003ddir:from",
+    "streetAddress":"1225 Southwest 19th Avenue",
+    "city":"Portland",
+    "region":"OR",
+    "country":"United States",
+    "staticMapUrl":"http://maps.google.com/maps/api/staticmap?maptype\u003droadmap\u0026format\u003dgif\u0026sensor\u003dfalse\u0026size\u003d150x100\u0026zoom\u003d13\u0026markers\u003d45.518638,-122.693553",
+    "url":"http://www.google.com/maps/place?source\u003duds\u0026q\u003dcoffee\u0026cid\u003d310007386605626856",
+    "content":"",
+    "maxAge":604800,
+    "phoneNumbers":[
+     {
+      "type":"",
+      "number":"(503) 223-4493"
+     }],
+    "addressLines":[
+     "1225 Southwest 19th Avenue",
+     "Portland, OR"
+    ]
+   }
+  ],
+  "cursor":{
+   "pages":[
+    {
+     "start":"0",
+     "label":1
+    },
+    {
+     "start":"4",
+     "label":2
+    },
+    {
+     "start":"8",
+     "label":3
+    },
+    {
+     "start":"12",
+     "label":4
+    }
+   ],
+   "estimatedResultCount":"8498",
+   "currentPageIndex":0,
+   "moreResultsUrl":"http://www.google.com/local?oe\u003dutf8\u0026ie\u003dutf8\u0026num\u003d4\u0026mrt\u003dyp,loc\u0026sll\u003d45.521694,-122.691806\u0026start\u003d0\u0026hl\u003den\u0026q\u003dcoffee"
+  },
+  "viewport":{
+   "center":{
+    "lat":"45.522386",
+    "lng":"-122.691539"
+   },
+   "span":{
+    "lat":"0.006295",
+    "lng":"0.006295"
+   },
+   "sw":{
+    "lat":"45.519238",
+    "lng":"-122.69469"
+   },
+   "ne":{
+    "lat":"45.52553",
+    "lng":"-122.688385"
+   }
+  }
+ },
+ "responseDetails": null, 
+ "responseStatus": 200
+}

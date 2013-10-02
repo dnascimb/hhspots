@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/hhspots/!svn/ver/100/hhmain/src/hottiehotspots/tests
+END
+GEOAddressHelperTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/hhspots/!svn/ver/45/hhmain/src/hottiehotspots/tests/GEOAddressHelperTests.java
+END
+GEOCountriesTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/hhspots/!svn/ver/4/hhmain/src/hottiehotspots/tests/GEOCountriesTests.java
+END
+LocationTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/hhspots/!svn/ver/100/hhmain/src/hottiehotspots/tests/LocationTests.java
+END
+GEOCitiesTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/hhspots/!svn/ver/4/hhmain/src/hottiehotspots/tests/GEOCitiesTests.java
+END
+HotspotTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/hhspots/!svn/ver/100/hhmain/src/hottiehotspots/tests/HotspotTests.java
+END

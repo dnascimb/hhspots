@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-configuration PUBLIC
+		"-//Hibernate/Hibernate Configuration DTD 3.0//EN"
+		"http://hibernate.sourceforge.net/hibernate-configuration-3.0.dtd">
+<hibernate-configuration>
+    <session-factory name="mySessionFactory">
+        <property name="hibernate.connection.driver_class">com.mysql.jdbc.Driver</property>
+        <property name="hibernate.connection.password"></property>
+        <property name="hibernate.connection.url">jdbc:mysql://localhost/hh</property>
+        <property name="hibernate.connection.username">root</property>
+        <property name="hibernate.default_schema">hh</property>
+        <property name="hibernate.dialect">org.hibernate.dialect.MySQLDialect</property>
+        <property name="hibernate.hbm2ddl.auto">update</property>
+      	<mapping class="hottiehotspots.model.User" />
+        <mapping class="hottiehotspots.model.Location" />
+       	<mapping class="hottiehotspots.model.Hotspot" />
+        <mapping class="hottiehotspots.model.HotspotRating" />
+        <mapping class="hottiehotspots.model.Label" />
+        <mapping class="hottiehotspots.model.Interest" />
+        <mapping class="hottiehotspots.model.GEOCities" />
+        <mapping class="hottiehotspots.model.GEOCountries" />
+        <mapping class="hottiehotspots.model.GEORegions" />
+        <mapping class="hottiehotspots.model.GEODmas" /> 
+        
+        
+    </session-factory>
+</hibernate-configuration>

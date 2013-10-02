@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE struts PUBLIC
+    "-//Apache Software Foundation//DTD Struts Configuration 2.0//EN"
+    "http://struts.apache.org/dtds/struts-2.0.dtd">
+<struts>
+    <constant name="struts.objectFactory" value="spring" />
+    <constant name="struts.devMode" value="true" />
+	
+	<package name="hottiehotspots" extends="struts-default">
+	    
+        <action name="" class="hottiehotspots.action.RegisterAction" method="execute">
+            <result>index.jsp</result>
+        </action>
+   
+        <action name="save" class="hottiehotspots.action.RegisterAction" method="save">
+            <interceptor-ref name="jsonValidationWorkflowStack"/>
+            <result name="input">index.jsp</result>
+            <result name="redirect" type="redirectAction">
+        		<param name="actionName">default</param>
+        		<param name="namespace">/dashboard</param>
+        	</result>
+        </action>
+	</package>
+	
+	<package name="login" namespace="/login" extends="struts-default">
+	    
+        <action name="default" class="hottiehotspots.action.LoginAction" method="execute">
+            <result>index.jsp</result>
+        </action>
+   
+        <action name="login" class="hottiehotspots.action.LoginAction" method="login">
+            <interceptor-ref name="jsonValidationWorkflowStack"/>
+           <!--  <result name="input">/index.jsp</result>
+            <result name="error">/index.jsp</result> -->
+            <result name="redirect" type="redirectAction">
+        		<param name="actionName">default</param>
+        		<param name="namespace">/dashboard</param>
+        	</result>
+
+        </action>
+	</package>
+	
+	<package name="dashboard" namespace="/dashboard" extends="struts-default">
+	    
+        <action name="default" class="hottiehotspots.action.DashboardAction" method="execute">
+            <result name="success">dashboard.jsp</result>
+            <result name="homepage" type="dispatcher">
+        		<param name="location">/redirect.jsp</param>
+        	</result>
+        </action>
+   		<action name="setDefaultUserArea" class="hottiehotspots.action.DashboardAction" method="setDefaultUserArea">
+            <result name="redirect" type="redirectAction">
+        		<param name="actionName">default</param>
+        		<param name="namespace">/dashboard</param>
+        	</result>
+        </action>
+        <action name="search" class="hottiehotspots.action.DashboardAction" method="search">
+            <result name="success">dashboard.jsp</result>
+            <result name="homepage" type="dispatcher">
+        		<param name="location">/redirect.jsp</param>
+        	</result>
+        	<result name="error">dashboard.jsp</result>
+        	<result name="redirect" type="redirectAction">
+        		<param name="actionName">default</param>
+        		<param name="namespace">/dashboard</param>
+        	</result>
+        </action>
+	</package>
+	
+	<package name="hotspot" namespace="/addhotspot" extends="struts-default">
+	    
+        <action name="default" class="hottiehotspots.action.CreateHotspotAction" method="execute">
+            <result>tag_hotspot.jsp</result>
+        </action>
+   		<action name="create" class="hottiehotspots.action.CreateHotspotAction" method="create">
+            <interceptor-ref name="jsonValidationWorkflowStack"/>
+            <result name="input">tag_hotspot.jsp</result>
+            <result name="error">tag_hotspot.jsp</result>
+            <result name="success" type="redirectAction">
+        		<param name="actionName">default</param>
+        		<param name="namespace">/hotspot</param>
+        		<param name="parse">true</param>
+        		<param name="id">${hotspot.locationId}</param>
+        	</result>
+        </action>
+	</package>
+
+	<package name="profile" namespace="/profileUpdate" extends="struts-default">
+	    
+	    <action name="default" class="hottiehotspots.action.ProfileUpdateAction" method="execute">
+            <result>profile.jsp</result>
+        </action>
+        
+        <action name="execute" class="hottiehotspots.action.ProfileUpdateAction" method="execute">
+            <result name="success">profile.jsp</result>
+            <result name="homepage" type="dispatcher">
+        		<param name="location">/redirect.jsp</param>
+        	</result>
+        </action>
+        
+         <action name="save" class="hottiehotspots.action.ProfileUpdateAction" method="save">
+            <interceptor-ref name="jsonValidationWorkflowStack"/>
+             <result name="error">profile.jsp</result>
+             <result name="success">profile.jsp</result>
+        </action>
+        
+ 	</package>
+	
+	<package name="hotspot_profile" namespace="/hotspot" extends="struts-default">
+	    
+        <action name="default" class="hottiehotspots.action.HotspotProfileAction" method="execute">
+            <result>view_hotspot.jsp</result>
+            <result name="dashboard" type="redirectAction">
+        		<param name="actionName">default</param>
+        		<param name="namespace">/dashboard</param>
+        	</result>
+        	<result name="unrecoverable_error" type="redirectAction">
+        		<param name="actionName">default</param>
+        		<param name="namespace">/dashboard</param>
+        	</result>
+        </action>
+   		<action name="review" class="hottiehotspots.action.HotspotProfileAction" method="review">
+            <interceptor-ref name="jsonValidationWorkflowStack"/>
+            <result name="input">view_hotspot.jsp</result>
+            <result name="error">view_hotspot.jsp</result>
+            <result name="success">view_hotspot.jsp</result>
+        </action>
+	</package>
+	<package name="json" namespace="/json" extends="json-default">
+	  <action name="autoCompleteArea" class="hottiehotspots.action.AreaAutoCompleter">
+	    <result type="json"><param name="root">json</param></result>
+	  </action>
+	</package>
+
+	<package name="imageUpdate" namespace="/imageUpload" extends="struts-default">
+	    
+	    <action name="default" class="hottiehotspots.action.ImageLoaderAction" method="execute">
+            <result>imageUpload.jsp</result>
+        </action>
+        
+        <action name="doUpload" class="hottiehotspots.action.ImageLoaderAction" method="upload">
+        	<result name="input">imageUpload.jsp</result>
+			<result>imageUpload.jsp</result>
+		</action>
+		
+        <action name="execute" class="hottiehotspots.action.ImageLoaderAction" method="execute">
+            <result name="success">imageUpload.jsp</result>
+            <result name="homepage" type="dispatcher">
+        		<param name="location">/redirect.jsp</param>
+        	</result>
+        </action>
+<!--      replaced by doUpload action
+         <action name="save" class="hottiehotspots.action.ImageLoaderAction" method="save">
+            <interceptor-ref name="jsonValidationWorkflowStack"/>
+             <result name="error">imageUpload.jsp</result>
+             <result name="success">imageUpload.jsp</result>
+        </action>
+-->
+        <action name="delete" class="hottiehotspots.action.ImageLoaderAction" method="delete">
+            <interceptor-ref name="jsonValidationWorkflowStack"/>
+             <result name="error">imageUpload.jsp</result>
+             <result name="success">imageUpload.jsp</result>
+        </action>
+ 	</package>
+ 	
+ 	<include file="struts-fileupload.xml" />
+</struts>

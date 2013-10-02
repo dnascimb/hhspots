@@ -1,0 +1,1393 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+
+
+    <title>Home - Confluence</title>
+        
+        
+                        
+    
+
+            
+<meta id="confluence-context-path" name="confluence-context-path" content="">
+<meta id="atlassian-token" name="atlassian-token" content="B8ijD5mXE9">
+<meta id="confluence-space-key" name="confluence-space-key" content="mottos">
+
+<script type="text/javascript">
+    // Deprecated global variables. To be removed in a future version of Confluence.
+    var contextPath = '';
+    var i18n = [];
+</script>
+
+    
+
+<!-- include system resources -->
+<script type="text/javascript" src="editpage.action_files/confluence_007.js"></script>
+<script type="text/javascript" src="editpage.action_files/confluence_009.js"></script>
+<script type="text/javascript" src="editpage.action_files/com_007.js"></script>
+<script type="text/javascript" src="editpage.action_files/com_010.js"></script>
+<script type="text/javascript" src="editpage.action_files/com_006.js"></script>
+<script type="text/javascript" src="editpage.action_files/engine.js"></script>
+<script type="text/javascript" src="editpage.action_files/util.js"></script>
+<link type="text/css" rel="stylesheet" href="editpage.action_files/confluence_003.css" media="all">
+<script type="text/javascript" src="editpage.action_files/dwr-wysiwyg-converter.js"></script>
+<script type="text/javascript" src="editpage.action_files/dwr-user-profile-editor.js"></script>
+<script type="text/javascript" src="editpage.action_files/dwr-draft.js"></script>
+<script type="text/javascript" src="editpage.action_files/dwr-heartbeat.js"></script>
+<script type="text/javascript" src="editpage.action_files/confluence_011.js"></script>
+<script type="text/javascript" src="editpage.action_files/com.js"></script>
+<script type="text/javascript" src="editpage.action_files/com_003.js"></script>
+<link type="text/css" rel="stylesheet" href="editpage.action_files/com_002.css" media="all">
+<!--[if IE]>
+<link type="text/css" rel="stylesheet" href="/s/1634/1/1.0.2/_/download/batch/com.atlassian.auiplugin:dialog/com.atlassian.auiplugin:dialog.css?ieonly=true" media="all"/>
+<![endif]-->
+<script type="text/javascript" src="editpage.action_files/confluence_002.js"></script>
+<script type="text/javascript" src="editpage.action_files/confluence_017.js"></script>
+<link type="text/css" rel="stylesheet" href="editpage.action_files/confluence.css" media="all">
+<!--[if IE]>
+<link type="text/css" rel="stylesheet" href="/s/1634/1/1.0/_/download/batch/confluence.editor.actions:editor-macro-browser/confluence.editor.actions:editor-macro-browser.css?ieonly=true" media="all"/>
+<![endif]-->
+<script type="text/javascript" src="editpage.action_files/com_009.js"></script>
+<script type="text/javascript" src="editpage.action_files/com_004.js"></script>
+<script type="text/javascript" src="editpage.action_files/com_011.js"></script>
+<link type="text/css" rel="stylesheet" href="editpage.action_files/com_003.css" media="all">
+<script type="text/javascript" src="editpage.action_files/com_005.js"></script>
+<script type="text/javascript" src="editpage.action_files/confluence_004.js"></script>
+<link type="text/css" rel="stylesheet" href="editpage.action_files/confluence_011.css" media="all">
+<!--[if IE]>
+<link type="text/css" rel="stylesheet" href="/s/1634/1/1.0/_/download/batch/confluence.web.resources:page-ordering-tree/confluence.web.resources:page-ordering-tree.css?ieonly=true" media="all"/>
+<![endif]-->
+<script type="text/javascript" src="editpage.action_files/confluence.js"></script>
+<script type="text/javascript" src="editpage.action_files/confluence_005.js"></script>
+<script type="text/javascript" src="editpage.action_files/EntitiesAjaxService.js"></script>
+<script type="text/javascript" src="editpage.action_files/AddLabeltoEntity.js"></script>
+<script type="text/javascript" src="editpage.action_files/RemoveLabelFromEntity.js"></script>
+<script type="text/javascript" src="editpage.action_files/SuggestedLabelsForEntity.js"></script>
+<script type="text/javascript" src="editpage.action_files/GenerateAutocompleteLabelsListForEntity.js"></script>
+<script type="text/javascript" src="editpage.action_files/confluence_010.js"></script>
+<link type="text/css" rel="stylesheet" href="editpage.action_files/confluence_007.css" media="all">
+<link type="text/css" rel="stylesheet" href="editpage.action_files/confluence_002.css" media="all">
+<!--[if IE]>
+<link type="text/css" rel="stylesheet" href="/s/1634/1/1.0/_/download/batch/confluence.web.resources:master-styles/confluence.web.resources:master-styles.css?ieonly=true" media="all"/>
+<![endif]-->
+<link type="text/css" rel="stylesheet" href="editpage.action_files/confluence_005.css" media="all">
+<link type="text/css" rel="stylesheet" href="editpage.action_files/confluence_010.css" media="all">
+<!--[if IE]>
+<link type="text/css" rel="stylesheet" href="/s/1634/1/1.0/_/download/batch/confluence.macros.profile:profile-macro-styles/confluence.macros.profile:profile-macro-styles.css?ieonly=true" media="all"/>
+<![endif]-->
+<script type="text/javascript" src="editpage.action_files/confluence_012.js"></script>
+<link type="text/css" rel="stylesheet" href="editpage.action_files/confluence_006.css" media="all">
+<script type="text/javascript" src="editpage.action_files/com_008.js"></script>
+<script type="text/javascript" src="editpage.action_files/confluence_003.js"></script>
+<script type="text/javascript" src="editpage.action_files/confluence_013.js"></script>
+<script type="text/javascript" src="editpage.action_files/confluence_014.js"></script>
+<link type="text/css" rel="stylesheet" href="editpage.action_files/confluence_008.css" media="all">
+<script type="text/javascript" src="editpage.action_files/confluence_008.js"></script>
+<script type="text/javascript" src="editpage.action_files/PageNotification.js"></script>
+<script type="text/javascript" src="editpage.action_files/confluence_015.js"></script>
+<link type="text/css" rel="stylesheet" href="editpage.action_files/confluence_009.css" media="all">
+<script type="text/javascript" src="editpage.action_files/confluence_016.js"></script>
+<link type="text/css" rel="stylesheet" href="editpage.action_files/confluence_004.css" media="all">
+<!--[if IE]>
+<link type="text/css" rel="stylesheet" href="/s/1634/1/1.0/_/download/batch/confluence.web.resources:userlink/confluence.web.resources:userlink.css?ieonly=true" media="all"/>
+<![endif]-->
+<script type="text/javascript" src="editpage.action_files/com_002.js"></script>
+<link type="text/css" rel="stylesheet" href="editpage.action_files/com.css" media="all">
+<script type="text/javascript" src="editpage.action_files/confluence_006.js"></script>
+
+<!-- end system resources -->
+
+    <link rel="stylesheet" href="editpage.action_files/combined.css" type="text/css">
+
+    <meta name="robots" content="noindex,nofollow">
+    <meta name="robots" content="noarchive">
+    <meta name="confluence-request-time" content="1269994215112">
+
+    <link rel="shortcut icon" href="http://thehottiehotspots.com:8080/favicon.ico">
+    <link rel="icon" type="image/png" href="http://thehottiehotspots.com:8080/s/1634/1/_/images/logo/confluence_16.png">
+
+<link rel="search" type="application/opensearchdescription+xml" href="http://thehottiehotspots.com:8080/opensearch/osd.action" title="Confluence">
+
+
+    
+<link href="editpage.action_files/ui.css" rel="stylesheet"></head><body onload="placeFocus()" id="com-atlassian-confluence">
+    
+
+<div id="header">
+        <form id="quick-search" class="quick-search" method="get" action="/dosearchsite.action">
+                <fieldset>
+            <legend>Quick Search</legend>
+            <input value="Search" class="quick-search-query placeholded" id="quick-search-query" accesskey="q" autocomplete="off" name="queryString" size="25" type="text">
+            <input class="quick-search-submit" id="quick-search-submit" value="Search" type="submit">
+        </fieldset>
+        <fieldset class="hidden parameters">
+            <input class="quickSearchPlaceholder" id="quickSearchPlaceholder" value="Search" type="hidden">
+
+            <input id="quickNavEnabled" value="true" type="hidden">
+             <!-- Quick nav disabled. SettingsManager could not be found -->         </fieldset>
+    </form>
+    
+    
+    <ol id="breadcrumbs">
+                    
+        <li class="first"><span>
+                                    <a href="http://thehottiehotspots.com:8080/dashboard.action">Dashboard</a>
+                </span></li>
+                    
+        <li><span>
+                                    <a href="http://thehottiehotspots.com:8080/display/mottos">Things to Keep In Mind!!!</a>
+                </span></li>
+                    
+        <li><span>
+                                    <a href="http://thehottiehotspots.com:8080/display/mottos/Home">Home</a>
+                </span></li>
+                    
+        <li><span>
+                                    Edit Page
+                </span></li>
+        </ol>
+
+</div>
+<div id="main">
+
+    
+    
+    <!-- call the page decorator --><!--
+    Root decorator: this is a layer of abstraction that Confluence doesn't need. It will be removed eventually.
+-->
+
+
+
+
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                    
+    
+
+
+
+
+
+
+    
+     <div id="editpage" style="margin-top: 5px;">
+    <fieldset class="hidden parameters">
+    <input id="spaceKey" value="mottos" type="hidden">
+    <input id="pageId" value="3080213" type="hidden">
+    <input id="originalParentPage" value="" type="hidden">
+    <input id="formName" value="editpageform" type="hidden">
+    <input id="defaultContentTitle" value="" type="hidden">
+    <input id="draftSavedMessage" value="Draft saved at {0}" type="hidden">
+    <input id="draftSavingMessage" value="Saving draft…" type="hidden">
+    <input id="draftSavingTimedOutMessage" value="Draft saving timed out" type="hidden">
+</fieldset>
+
+
+<form id="editpageform" name="editpageform" method="post" action="doeditpage.action?pageId=3080213" class="editor">
+        <input name="atl_token" value="B8ijD5mXE9" type="hidden">
+    <input name="labelsShowing" value="false" id="labelsShowing" type="hidden">    <input name="restrictionsShowing" value="false" id="restrictionsShowing" type="hidden">    <input name="locationShowing" value="false" id="locationShowing" type="hidden">
+                <input name="originalVersion" value="2" id="originalVersion" type="hidden">        <input name="originalContent" value="*Speed* is always the most important feature.
+ Your service *must be useful right away*, not after an hour of set-up.
+ Your software should have a *personality and voice*.
+ *Less is always more* when you first launch.
+ Make your app *programmable* \-\- allow others to add on to it in some way.
+ Individuals should be able to *personalize* your app (both users and programmers).
+ Make sure everything in your application has a *unique, comprehensible URL* (the REST approach).
+ Build your app so that it's *optimized* to be found in terms of both social media and search.
+ Make it visually *clean*.
+ Be *playful* \-\- you can turn anything into a game.{color:#000000}Read more:{color} [http://www.businessinsider.com/10-golden-principles-successful-web-apps-2010-3#ixzz0jhxPT3WK|http://www.businessinsider.com/10-golden-principles-successful-web-apps-2010-3#ixzz0jhxPT3WK]
+
+\# Speed is always the most important feature.
+\# Your service must be useful right away, not after an hour of set-up.
+\# Your software should have a personality and voice.
+\# Less is always more when you first launch.
+\# Make your app programmable \-\- allow others to add on to it in some way.
+\# Individuals should be able to personalize your app (both users and programmers).
+\# Make sure everything in your application has a unique, comprehensible URL (the REST approach).
+\# Build your app so that it's optimized to be found in terms of both social media and search.
+\# Make it visually clean.
+\# Be playful \-\- you can turn anything into a game.
+
+{section}
+{column:width=60%}
+{recently-updated}
+{column}
+{column:width=5%}
+{column}
+{column:width=35%}
+
+h6. Navigate space
+{pagetreesearch}
+{pagetree}
+{column}
+{section}" id="orginalContent" type="hidden">        <input name="conflictingVersion" value="2" id="conflictingVersion" type="hidden">    
+
+    <div id="wiki-editor">
+        <!-- remove content link -->
+                <div class="remove-control">
+                                                        <a href="http://thehottiehotspots.com:8080/pages/removepage.action?pageId=3080213"><img src="editpage.action_files/trash_16.gif" title="Remove" align="absmiddle" border="0px" height="16" width="16"></a>&nbsp;<a href="http://thehottiehotspots.com:8080/pages/removepage.action?pageId=3080213">Remove Page</a>
+                                        </div>
+
+        <!-- title text field -->
+        <div id="content-title-div" class="inputSection">
+                                                  <input name="title" size="43" value="Home" tabindex="1" id="content-title" class="pagetitle" type="text">
+        </div>
+        
+                <!-- captcha form elements -->
+        
+<div id="heartbeat-div" class="hidden">
+    <table class="noteMacro" align="center" border="0" cellpadding="5" cellspacing="8px">
+        <tbody><tr><td valign="top" width="1%"><img src="editpage.action_files/warning.gif" alt="" align="absmiddle" border="0" height="16" width="16"></td><td>
+            This page is being edited by <span id="other-users-span"></span>.
+        </td></tr>
+    </tbody></table>
+</div>
+
+
+
+        <!-- template link -->
+        
+        <!-- content editor -->
+        <div class="inputSection">
+            <div class="submit-buttons">
+                   <input tabindex="102" accesskey="s" name="confirm" value="Save" type="submit">&nbsp;&nbsp;
+<input tabindex="104" name="cancel" value="Cancel" type="submit">            </div>
+            <div id="draft-status">
+            </div>
+                                    <div id="editorDiv">
+                
+
+    
+    
+    
+    
+    
+                    
+    
+
+        
+
+
+        
+
+<fieldset class="hidden parameters">
+    <input id="contextPath" value="" type="hidden">
+    <input id="contentId" value="3080213" type="hidden">
+    <input id="contentType" value="page" type="hidden">
+    <input id="useWysiwyg" value="true" type="hidden">
+    <input id="saveDrafts" value="true" type="hidden">
+    <input id="draftType" value="page" type="hidden">
+    <input id="heartbeat" value="true" type="hidden">
+    <input id="newPage" value="" type="hidden">
+    <input id="maxThumbWidth" value="200" type="hidden">
+    <input id="editorMode" value="richtext" type="hidden">
+    <input id="paramsHeight" value="480" type="hidden">
+    <input id="isDevMode" value="false" type="hidden">
+    <input id="parametersName" value="content" type="hidden">
+    <input id="parametersId" value="content" type="hidden">
+    <input id="actionLocale" value="en_GB" type="hidden">
+    <input id="actionMarkup" value="markup" type="hidden">
+    <input id="actionRichtext" value="richtext" type="hidden">
+    <input id="actionPreview" value="preview" type="hidden">
+    <input id="spaceKey" value="mottos" type="hidden">
+    <input id="remoteUser" value="dnascimb" type="hidden">
+    <input id="editorPluginResourcePrefix" value="/s/1634/1/3.0.1/_" type="hidden">
+        <input id="staticResourceUrlPrefix" value="/s/1634/1/_" type="hidden">
+    <input id="blankSearchText" value="Search" type="hidden">
+    <input id="loadBrowserErrorMessage" value="There has been an error loading the macro browser. Please try again or see your system administrator." type="hidden">
+    <input id="unknownMacroMessage" value="Could not load unknown macro in the macro browser." type="hidden">
+    <input id="nestingSameMacroNotAllowedMessage" value="Macros with the same name cannot be nested inside each other." type="hidden">
+    <input id="loadingMessage" value="The Macro Browser has not yet been initialised. Please try again in a few seconds." type="hidden">
+    <input id="categoryAllLabel" value="All" type="hidden">
+    <input id="nextButtonLabel" value="Next" type="hidden">
+    <input id="backButtonLabel" value="Back" type="hidden">
+    <input id="previewButtonLabel" value="Preview" type="hidden">
+    <input id="cancelButtonLabel" value="Cancel" type="hidden">
+    <input id="insertButtonLabel" value="Insert" type="hidden">
+    <input id="saveButtonLabel" value="Save" type="hidden">
+                <input id="formName" value="editpageform" type="hidden">
+    </fieldset>
+
+    
+    <ul id="editor-tabs" class="tab-navigation">
+                <li id="wysiwygTab" class="tab  current">
+            <a href="#">Rich Text</a>
+        </li>
+        
+        <li id="markupTab" class="tab ">
+            <a href="#">Wiki Markup</a>
+        </li>
+
+        <li id="previewTab" class="tab ">
+            <a href="#">Preview</a>
+        </li>
+
+        <li id="wysiwygWaitImage" class="notab loading">Loading…</li>
+
+                <li class="notab editor-settings">
+           <a id="makeRichTextDefault" href="#" class="hidden">Make Rich Text Default</a>
+           <a id="makeMarkupDefault" href="#" class="hidden">Make Wiki Markup Default</a>
+        </li>
+            </ul>
+
+        <div id="linkinserters" class="hidden">
+                    <a id="editor-insert-link" href="#" title="Insert Link (Ctrl+K)">
+            <span class="editor-icon"></span>
+        </a>
+            <a id="editor-insert-image" href="#" title="Insert Image (Ctrl+M)">
+            <span class="editor-icon"></span>
+        </a>
+            <a id="editor-insert-macro" href="#" title="Macro Browser">
+            <span class="editor-icon"></span>
+        </a>
+        </div>
+    
+            
+        <div id="wysiwyg">
+                        <textarea style="display: none;" id="wysiwygTextarea" name="wysiwygcontent" class="tinymce-editor hidden">&lt;p&gt;&lt;b&gt;Speed&lt;/b&gt;
+is always the most important feature.&lt;br/&gt; Your service
+&lt;b&gt;must be useful right away&lt;/b&gt;, not after an hour of
+set-up.&lt;br/&gt; Your software should have a &lt;b&gt;personality and
+voice&lt;/b&gt;.&lt;br/&gt; &lt;b&gt;Less is always more&lt;/b&gt; when
+you first launch.&lt;br/&gt; Make your app
+&lt;b&gt;programmable&lt;/b&gt; &amp;#45;&amp;#45; allow others to add
+on to it in some way.&lt;br/&gt; Individuals should be able to
+&lt;b&gt;personalize&lt;/b&gt; your app (both users and
+programmers).&lt;br/&gt; Make sure everything in your application has a
+&lt;b&gt;unique, comprehensible URL&lt;/b&gt; (the REST
+approach).&lt;br/&gt; Build your app so that it's
+&lt;b&gt;optimized&lt;/b&gt; to be found in terms of both social media
+and search.&lt;br/&gt; Make it visually
+&lt;b&gt;clean&lt;/b&gt;.&lt;br/&gt; Be &lt;b&gt;playful&lt;/b&gt;
+&amp;#45;&amp;#45; you can turn anything into a game.&lt;font
+color="#000000"&gt;Read more:&lt;/font&gt; &lt;a
+href="http://www.businessinsider.com/10-golden-principles-successful-web-apps-2010-3#ixzz0jhxPT3WK"
+
+class="external-link" rel="nofollow"linktype="raw"
+wikidestination="http://www.businessinsider.com/10-golden-principles-successful-web-apps-2010-3#ixzz0jhxPT3WK"
+aliasspecified="true"
+&gt;http://www.businessinsider.com/10-golden-principles-successful-web-apps-2010-3#ixzz0jhxPT3WK&lt;/a&gt;&lt;/p&gt;
+&lt;p
+user="true" style="display:none"/&gt;
+&lt;p&gt;&amp;#35; Speed is always the most important
+feature.&lt;br/&gt;
+&amp;#35; Your service must be useful right away, not after an hour of
+set-up.&lt;br/&gt;
+&amp;#35; Your software should have a personality and voice.&lt;br/&gt;
+&amp;#35; Less is always more when you first launch.&lt;br/&gt;
+&amp;#35; Make your app programmable &amp;#45;&amp;#45; allow others to
+add on to it in some way.&lt;br/&gt;
+&amp;#35; Individuals should be able to personalize your app (both
+users and programmers).&lt;br/&gt;
+&amp;#35; Make sure everything in your application has a unique,
+comprehensible URL (the REST approach).&lt;br/&gt;
+&amp;#35; Build your app so that it's optimized to be found in terms of
+both social media and search.&lt;br/&gt;
+&amp;#35; Make it visually clean.&lt;br/&gt;
+&amp;#35; Be playful &amp;#45;&amp;#45; you can turn anything into a
+game.&lt;/p&gt;
+&lt;p user="true" style="display:none"/&gt;
+&lt;div class="wysiwyg-macro" macroname="section" macrohasbody="true"
+wikihasprecedingnewline="true" wikihastrailingnewline="false"
+&gt;&lt;div class="wysiwyg-macro-tag
+wysiwyg-macro-starttag"&gt;{section}&lt;/div&gt;&lt;br
+class="wysiwyg-macro-body-newline"/&gt;&lt;div
+class="wysiwyg-macro-body"&gt;&lt;div class="wysiwyg-macro"
+macroname="column" macrohasbody="true" wikihasprecedingnewline="false"
+wikihastrailingnewline="true" &gt;&lt;div class="wysiwyg-macro-tag
+wysiwyg-macro-starttag"&gt;{column:width=60%}&lt;/div&gt;&lt;br
+class="wysiwyg-macro-body-newline"/&gt;&lt;div
+class="wysiwyg-macro-body"&gt;&lt;div class="wysiwyg-macro"
+macroname="recently-updated" macrohasbody="false"
+wikihasprecedingnewline="false" wikihastrailingnewline="false"
+&gt;&lt;div class="wysiwyg-macro-tag
+wysiwyg-macro-starttag"&gt;{recently-updated}&lt;/div&gt;&lt;/div&gt;&lt;p
+class="atl_conf_pad"&gt; &lt;/p&gt;&lt;/div&gt;&lt;br
+class="wysiwyg-macro-body-newline"/&gt;&lt;div class="wysiwyg-macro-tag
+wysiwyg-macro-endtag"&gt;{column}&lt;/div&gt;&lt;/div&gt;&lt;p
+class="atl_conf_pad"&gt; &lt;/p&gt;
+&lt;div class="wysiwyg-macro" macroname="column" macrohasbody="true"
+wikihasprecedingnewline="true" wikihastrailingnewline="true"
+&gt;&lt;div class="wysiwyg-macro-tag
+wysiwyg-macro-starttag"&gt;{column:width=5%}&lt;/div&gt;&lt;br
+class="wysiwyg-macro-body-newline"/&gt;&lt;div
+class="wysiwyg-macro-body"&gt;&lt;/div&gt;&lt;div
+class="wysiwyg-macro-tag
+wysiwyg-macro-endtag"&gt;{column}&lt;/div&gt;&lt;/div&gt;&lt;p
+class="atl_conf_pad"&gt; &lt;/p&gt;
+&lt;div class="wysiwyg-macro" macroname="column" macrohasbody="true"
+wikihasprecedingnewline="true" wikihastrailingnewline="false"
+&gt;&lt;div class="wysiwyg-macro-tag
+wysiwyg-macro-starttag"&gt;{column:width=35%}&lt;/div&gt;&lt;br
+class="wysiwyg-macro-body-newline"/&gt;&lt;div
+class="wysiwyg-macro-body"&gt;&lt;p user="true"
+style="display:none"/&gt;
+&lt;h6&gt;&lt;a name="Home-Navigatespace"&gt;&lt;/a&gt;Navigate
+space&lt;/h6&gt;
+&lt;div class="wysiwyg-macro" macroname="pagetreesearch"
+macrohasbody="false" wikihasprecedingnewline="true"
+wikihastrailingnewline="true" &gt;&lt;div class="wysiwyg-macro-tag
+wysiwyg-macro-starttag"&gt;{pagetreesearch}&lt;/div&gt;&lt;/div&gt;&lt;p
+class="atl_conf_pad"&gt; &lt;/p&gt;
+&lt;div class="wysiwyg-macro" macroname="pagetree" macrohasbody="false"
+wikihasprecedingnewline="true" wikihastrailingnewline="false"
+&gt;&lt;div class="wysiwyg-macro-tag
+wysiwyg-macro-starttag"&gt;{pagetree}&lt;/div&gt;&lt;/div&gt;&lt;p
+class="atl_conf_pad"&gt; &lt;/p&gt;&lt;/div&gt;&lt;br
+class="wysiwyg-macro-body-newline"/&gt;&lt;div class="wysiwyg-macro-tag
+wysiwyg-macro-endtag"&gt;{column}&lt;/div&gt;&lt;/div&gt;&lt;p
+class="atl_conf_pad"&gt; &lt;/p&gt;&lt;/div&gt;&lt;br
+class="wysiwyg-macro-body-newline"/&gt;&lt;div class="wysiwyg-macro-tag
+wysiwyg-macro-endtag"&gt;{section}&lt;/div&gt;&lt;/div&gt;&lt;p
+class="atl_conf_pad"&gt; &lt;/p&gt;</textarea><span class="mceEditor defaultSkin" id="wysiwygTextarea_parent"><table style="width: 100%; height: 480px;" class="mceLayout" id="wysiwygTextarea_tbl" cellpadding="0" cellspacing="0"><tbody id=""><tr class="mceFirst"><td class="mceToolbar mceLeft mceFirst mceLast"><a href="#" accesskey="q" title="tinymce.advanced.toolbar_focus"><!-- IE --></a><table id="wysiwygTextarea_toolbar1" class="mceToolbar mceToolbarRow1 Enabled" align="" cellpadding="0" cellspacing="0"><tbody><tr><td class="mceToolbarStart mceToolbarStartListBox mceFirst"><span><!-- IE --></span></td><td><table id="wysiwygTextarea_formatselect" class="mceListBox mceListBoxEnabled mce_formatselect" cellpadding="0" cellspacing="0"><tbody><tr><td class="mceFirst"><a id="wysiwygTextarea_formatselect_text" href="javascript:;" class="mceText mceTitle" onclick="return false;" onmousedown="return false;">Paragraph</a></td><td class="mceLast"><a id="wysiwygTextarea_formatselect_open" tabindex="-1" href="javascript:;" class="mceOpen" onclick="return false;" onmousedown="return false;"><span></span></a></td></tr></tbody></table></td><td class="mceToolbarStart"><span><!-- IE --></span></td><td><a id="wysiwygTextarea_bold" href="javascript:;" class="mceButton mceButtonEnabled mce_bold" onmousedown="return false;" onclick="return false;" title="Bold (Ctrl+B)"><span class="mceIcon mce_bold"></span></a></td><td><a id="wysiwygTextarea_italic" href="javascript:;" class="mceButton mceButtonEnabled mce_italic" onmousedown="return false;" onclick="return false;" title="Italic (Ctrl+I)"><span class="mceIcon mce_italic"></span></a></td><td><a id="wysiwygTextarea_underline" href="javascript:;" class="mceButton mceButtonEnabled mce_underline" onmousedown="return false;" onclick="return false;" title="Underline (Ctrl+U)"><span class="mceIcon mce_underline"></span></a></td><td><a id="wysiwygTextarea_strikethrough" href="javascript:;" class="mceButton mceButtonEnabled mce_strikethrough" onmousedown="return false;" onclick="return false;" title="Strikethrough"><span class="mceIcon mce_strikethrough"></span></a></td><td><table id="wysiwygTextarea_forecolor" class="mceSplitButton mceSplitButtonEnabled mce_forecolor" onmousedown="return false;" title="Select text color" cellpadding="0" cellspacing="0"><tbody><tr><td class="mceFirst"><a id="wysiwygTextarea_forecolor_action" href="javascript:;" class="mceAction mce_forecolor" onclick="return false;" onmousedown="return false;" title="Select text color"><span class="mceAction mce_forecolor"></span><div class="mceColorPreview" id="wysiwygTextarea_forecolor_preview"></div></a></td><td class="mceLast"><a id="wysiwygTextarea_forecolor_open" href="javascript:;" class="mceOpen mce_forecolor" onclick="return false;" onmousedown="return false;" title="Select text color"><span class="mceOpen mce_forecolor"></span></a></td></tr></tbody></table></td><td><span class="mceSeparator"></span></td><td><a id="wysiwygTextarea_table" href="javascript:;" class="mceButton mceButtonEnabled mce_table" onmousedown="return false;" onclick="return false;" title="Insert table"><span class="mceIcon mce_table"></span></a></td><td><a id="wysiwygTextarea_row_before" href="javascript:;" class="mceButton mce_row_before mceButtonDisabled" onmousedown="return false;" onclick="return false;" title="Insert row before"><span class="mceIcon mce_row_before"></span></a></td><td><a id="wysiwygTextarea_row_after" href="javascript:;" class="mceButton mce_row_after mceButtonDisabled" onmousedown="return false;" onclick="return false;" title="Insert row after"><span class="mceIcon mce_row_after"></span></a></td><td><a id="wysiwygTextarea_delete_row" href="javascript:;" class="mceButton mce_delete_row mceButtonDisabled" onmousedown="return false;" onclick="return false;" title="Remove row"><span class="mceIcon mce_delete_row"></span></a></td><td><a id="wysiwygTextarea_col_before" href="javascript:;" class="mceButton mce_col_before mceButtonDisabled" onmousedown="return false;" onclick="return false;" title="Insert column before"><span class="mceIcon mce_col_before"></span></a></td><td><a id="wysiwygTextarea_col_after" href="javascript:;" class="mceButton mce_col_after mceButtonDisabled" onmousedown="return false;" onclick="return false;" title="Insert column after"><span class="mceIcon mce_col_after"></span></a></td><td><a id="wysiwygTextarea_delete_col" href="javascript:;" class="mceButton mce_delete_col mceButtonDisabled" onmousedown="return false;" onclick="return false;" title="Remove column"><span class="mceIcon mce_delete_col"></span></a></td><td><a id="wysiwygTextarea_delete_table" href="javascript:;" class="mceButton mce_delete_table mceButtonDisabled" onmousedown="return false;" onclick="return false;" title="Remove table"><span class="mceIcon mce_delete_table"></span></a></td><td><span class="mceSeparator"></span></td><td><a id="wysiwygTextarea_bullist" href="javascript:;" class="mceButton mceButtonEnabled mce_bullist" onmousedown="return false;" onclick="return false;" title="Unordered list"><span class="mceIcon mce_bullist"></span></a></td><td><a id="wysiwygTextarea_numlist" href="javascript:;" class="mceButton mceButtonEnabled mce_numlist" onmousedown="return false;" onclick="return false;" title="Ordered list"><span class="mceIcon mce_numlist"></span></a></td><td><a id="wysiwygTextarea_outdent" href="javascript:;" class="mceButton mce_outdent mceButtonDisabled" onmousedown="return false;" onclick="return false;" title="Outdent (Shift+Tab)"><span class="mceIcon mce_outdent"></span></a></td><td><a id="wysiwygTextarea_indent" href="javascript:;" class="mceButton mce_indent mceButtonDisabled" onmousedown="return false;" onclick="return false;" title="Indent (Tab)"><span class="mceIcon mce_indent"></span></a></td><td><span class="mceSeparator"></span></td><td><a id="wysiwygTextarea_undo" href="javascript:;" class="mceButton mce_undo mceButtonEnabled" onmousedown="return false;" onclick="return false;" title="Undo (Ctrl+Z)"><span class="mceIcon mce_undo"></span></a></td><td><a id="wysiwygTextarea_redo" href="javascript:;" class="mceButton mce_redo mceButtonDisabled" onmousedown="return false;" onclick="return false;" title="Redo (Ctrl+Y)"><span class="mceIcon mce_redo"></span></a></td><td><span class="mceSeparator"></span></td><td><a id="wysiwygTextarea_hr" href="javascript:;" class="mceButton mceButtonEnabled mce_hr" onmousedown="return false;" onclick="return false;" title="Insert horizontal ruler"><span class="mceIcon mce_hr"></span></a></td><td><a id="wysiwygTextarea_charmap" href="javascript:;" class="mceButton mceButtonEnabled mce_charmap" onmousedown="return false;" onclick="return false;" title="Insert custom character"><span class="mceIcon mce_charmap"></span></a></td><td><a id="wysiwygTextarea_emotions" href="javascript:;" class="mceButton mceButtonEnabled mce_emotions" onmousedown="return false;" onclick="return false;" title="Emoticons"><span class="mceIcon mce_emotions"></span></a></td><td><a id="wysiwygTextarea_conflink" href="javascript:;" class="mceButton mceButtonEnabled mce_conflink" onmousedown="return false;" onclick="return false;" title="Insert/Edit Link (Ctrl+K)"><span class="mceIcon mce_conflink"></span></a></td><td><a id="wysiwygTextarea_confimage" href="javascript:;" class="mceButton mceButtonEnabled mce_confimage" onmousedown="return false;" onclick="return false;" title="Insert/Edit Image (Ctrl+M)"><span class="mceIcon mce_confimage"></span></a></td><td><a id="wysiwygTextarea_conf_macro_browser" href="javascript:;" class="mceButton mceButtonEnabled mce_conf_macro_browser" onmousedown="return false;" onclick="return false;" title="Insert/Edit Macro"><span class="mceIcon mce_conf_macro_browser"></span></a></td><td><span class="mceSeparator"></span></td><td><a id="wysiwygTextarea_fullscreen" href="javascript:;" class="mceButton mceButtonEnabled mce_fullscreen" onmousedown="return false;" onclick="return false;" title="Toggle fullscreen mode"><span class="mceIcon mce_fullscreen"></span></a></td><td><a id="wysiwygTextarea_contextmenu" href="javascript:;" class="mceButton mceButtonEnabled mce_contextmenu" onmousedown="return false;" onclick="return false;" title="Toggle context menu"><span class="mceIcon mce_contextmenu"></span></a></td><td class="mceToolbarEnd mceToolbarEndButton mceLast"><span><!-- IE --></span></td></tr></tbody></table><a href="#" accesskey="z" title="tinymce.advanced.toolbar_focus" onfocus="tinyMCE.getInstanceById('wysiwygTextarea').focus();"><!-- IE --></a></td></tr><tr><td class="mceIframeContainer mceFirst mceLast"><iframe style="width: 100%; height: 436px;" src='javascript:""' id="wysiwygTextarea_ifr" frameborder="0"></iframe></td></tr><tr class="mceLast"><td class="mceStatusbar mceFirst mceLast"><div id="wysiwygTextarea_path_row">&nbsp;<a accesskey="x" href="#"></a></div><a class="mceResize" onclick="return false;" href="javascript:;" id="wysiwygTextarea_resize"></a></td></tr></tbody></table></span></div>
+    
+    <div id="markup" class="hidden">
+        <textarea id="markupTextarea" name="content" cols="80" rows="30" tabindex="5" style="" class="monospaceInput">*Speed*
+is always the most important feature. Your service *must be useful
+right away*, not after an hour of set-up. Your software should have a
+*personality and voice*. *Less is always more* when you first launch.
+Make your app *programmable* \-\- allow others to add on to it in some
+way. Individuals should be able to *personalize* your app (both users
+and programmers). Make sure everything in your application has a
+*unique, comprehensible URL* (the REST approach). Build your app so
+that it's *optimized* to be found in terms of both social media and
+search. Make it visually *clean*. Be *playful* \-\- you can turn
+anything into a game.{color:#000000}Read more:{color}
+[http://www.businessinsider.com/10-golden-principles-successful-web-apps-2010-3#ixzz0jhxPT3WK|http://www.businessinsider.com/10-golden-principles-successful-web-apps-2010-3#ixzz0jhxPT3WK]
+
+\#
+Speed is always the most important feature.
+\# Your service must be useful right away, not after an hour of set-up.
+\# Your software should have a personality and voice.
+\# Less is always more when you first launch.
+\# Make your app programmable \-\- allow others to add on to it in some
+way.
+\# Individuals should be able to personalize your app (both users and
+programmers).
+\# Make sure everything in your application has a unique,
+comprehensible URL (the REST approach).
+\# Build your app so that it's optimized to be found in terms of both
+social media and search.
+\# Make it visually clean.
+\# Be playful \-\- you can turn anything into a game.
+{section}
+{column:width=60%}
+{recently-updated}
+{column}
+{column:width=5%}
+{column}
+{column:width=35%}
+h6. Navigate space
+{pagetreesearch}
+{pagetree}
+{column}
+{section}</textarea>
+    </div>
+    <input id="selectedText" name="selectedText" type="hidden">
+        <input name="sel1" type="hidden">    <input name="sel2" type="hidden">    <input name="inPreview" value="false" type="hidden">
+    <input name="mode" value="richtext" type="hidden">
+    <input name="xhtml" value="true" type="hidden">
+
+    <div id="preview" class="hidden">
+                        <div id="previewArea"></div>
+    </div>
+    <div id="macro-browser-templates" class="hidden">
+        <ol id="macro-summaries-template" class="macro-list"></ol>
+    <ul>
+    <li id="macro-summary-template" class="macro-list-item">
+        <h3 class="macro-title"></h3>
+        <div class="macro-desc"></div>
+    </li>
+    </ul>
+        <div id="macro-insert-template">
+        <input class="macro-name" type="hidden">
+        <div class="macro-preview-container dialog-panel">
+            <div class="macro-preview-header">
+                <a href="#">Refresh</a>
+                <span>Preview</span>
+            </div>
+            <div class="macro-preview"></div>
+        </div>
+        <div class="macro-input-fields dialog-panel"></div>
+    </div>
+    <span id="macro-doco-link-template">
+        <a href="#" class="macro-doco-link">Documentation</a>
+    </span>
+    <div id="macro-freeform-template" class="macro-freeform-div">
+        <div class="macro-freeform-desc">This
+macro does not provide any parameter information. If the available
+information does not help, you may find its documentation at <a href="http://confluence.atlassian.com/display/CONFEXT">Confluence Extensions</a>.</div>
+        <div class="macro-freeform-input">
+            {<span class="macro-name-display"></span><input class="macro-text" type="text">}
+        </div>
+        <div class="macro-example hidden">
+            <h3 class="underlined">Examples</h3>
+        </div>
+        <div class="macro-help hidden">
+            <h3 class="underlined">Description</h3>
+        </div>
+    </div>
+    <div id="macro-param-template" class="macro-param-div">
+        <label></label>
+        <input class="text" type="text">
+    </div>
+    <div id="macro-param-checkbox-template" class="macro-param-div boolean-param">
+        <label></label>
+        <input value="true" type="checkbox">
+    </div>
+    <div id="macro-param-select-template" class="macro-param-div">
+        <label></label>
+        <select></select>
+    </div>
+    <div id="macro-param-hidden-text-template" class="macro-param-div">
+        <label></label>
+        <input class="text" type="text">
+        <input type="hidden">
+    </div>
+    <div id="macro-param-hidden-template" class="macro-param-div">
+        <input type="hidden">
+    </div>
+    <div id="macro-param-desc-template" class="macro-param-desc"></div>
+    <div id="macro-body-template" class="macro-body-div">
+        <label>Body Text</label>
+        <textarea class="monospaceInput textarea" type="text" rows="10"></textarea>
+    </div>
+</div>            </div>
+        </div>
+
+        <!-- comment field and minor edit checkbox -->
+        <div class="inputSection">
+                            <div class="minor-edit">
+                    <input id="minorEdit" name="minorEdit" value="true" type="checkbox">
+                    <label for="minorEdit">
+                        <span class="smalltext"><b>Minor change?</b> (no notifications will be sent)</span>
+                    </label>
+                </div>
+                                                                      <span class="formtitle">Comment:</span>
+                <input name="versionComment" size="40" tabindex="6" class="monospaceInput" style="width: 50%;" type="text">                    </div>
+
+        <!-- content location editor -->
+                    <div class="inputSection">
+               	
+
+    
+    
+    
+
+
+<fieldset class="hidden parameters">
+    <input title="editLabel" value="Edit" type="hidden">
+    <input title="doneLabel" value="Done" type="hidden">
+    <input title="showLocation" value="false" type="hidden">
+    <input title="hasChildren" value="false" type="hidden">
+    <input title="availableSpacesSize" value="12" type="hidden">
+    <input title="spaceKey" value="mottos" type="hidden">
+    <input title="pageId" value="3080213" type="hidden">
+    <input title="actionMode" value="edit" type="hidden">
+    <input title="parentPageId" value="" type="hidden">
+    </fieldset>
+
+<span class="formtitle">Location:</span>
+<span id="location_info">
+    <span id="space_info">
+        <span id="space_content">Things to Keep In Mind!!!</span>
+    </span>
+    <span id="parent_info" class="hidden">
+        &gt; <span id="parent_content"></span>
+    </span>
+    <a href="" class="inline-control-link" id="location_edit_link">Edit</a>
+</span>
+
+<a name="locationSection">
+</a><div id="location_div" class="toggleFormDiv editor-panel hidden">
+<a name="locationSection">                  
+          </a><div class="smalltext" style="float: right;"><a name="locationSection">You can move the highlighted page by dragging it to a new position in the tree.</a></div>
+<a name="locationSection">      </a><div>
+<a name="locationSection">          <label id="currentLocation" class="formtitle">Space</label>
+
+                <select id="newSpaceKey" name="newSpaceKey" tabindex="3">
+                        <option value="Features">Application Features</option>
+                        <option value="API">Application Programming Interfaces</option>
+                        <option value="calendar">Calendar</option>
+                        <option value="competition">Competition</option>
+                        <option value="Analytics">Google Analytics</option>
+                        <option value="Logos">Images/Logos</option>
+                        <option value="svn">SVN</option>
+                        <option value="TECHDOC">Technical Documentation</option>
+                        <option value="mottos" selected="selected">Things to Keep In Mind!!!</option>
+                        <option value="useability">Useability and Existing APIs/Tools to speed development</option>
+                        <option value="USE">Use Cases</option>
+                        <option value="CodeExamples">Widgets &amp; Code Snippets</option>
+                    </select>
+            </a></div>
+<a name="locationSection">   
+    </a><div id="resultsDiv"></div>
+<a name="locationSection">    </a><div style="padding: 10px;" id="outer-container"><div id="tree-div" style="min-height: 150px;"></div></div>
+<a name="locationSection">    <input id="parentPageString" value="" name="parentPageString" type="hidden">
+	<input id="hierarchy_checkbox" name="moveHierarchy" value="true" type="hidden">
+    <input id="position" value="" name="position" type="hidden">
+    <input id="targetId" value="" name="targetId" type="hidden">
+</a></div>
+<a name="locationSection">            </a></div>
+<a name="locationSection">        
+        <!-- content permissions -->
+                    </a><div class="inputSection">
+<a name="locationSection">                
+
+    
+    
+
+<!-- Copy some methods out of prototype 1.5 since we can't rev to it yet due to it causing a memory leak in jwebunit 1.2 and hence our func tests -->
+<!-- this block of javascript can be removed when we rev to prototype 1.5 -->
+<script type="text/javascript">
+    Array.prototype.indexOf = function(object)
+    {
+        for (var i = 0, length = this.length; i < length; i++)
+            if (this[i] == object) return i;
+        return -1;
+    }
+
+    Array.prototype.without = function()
+    {
+        var values = $A(arguments);
+        return this.select(function(value)
+        {
+            return !values.include(value);
+        });
+    }
+
+    String.prototype.strip = function()
+    {
+        return this.replace(/^\s+/, '').replace(/\s+$/, '');
+    }
+</script>
+
+<script type="text/javascript">
+
+
+
+var viewPagePermissions = new PagePermissions();
+
+var editPagePermissions = new PagePermissions();
+
+var viewPermissionManager = new PermissionManager(PagePermissionType.VIEW);
+var editPermissionManager = new PermissionManager(PagePermissionType.EDIT);
+var currentPermissionManager = viewPermissionManager;
+
+
+
+i18n['perms.remove'] = 'Remove';
+i18n['done.name.caps'] = 'Done';
+i18n['edit.name.caps'] = 'Edit';
+i18n['page.perms.viewing.restricted'] = 'Viewing restricted to:';
+i18n['page.perms.editing.restricted'] = 'Editing restricted to:';
+i18n['page.perms.no.view.restrictions'] = 'No viewing restrictions set on this page';
+i18n['page.perms.no.edit.restrictions'] = 'No editing restrictions set on this page';
+i18n['page.perms.duplicate.names'] = 'Duplicate user or group name(s):';
+i18n['page.perms.invalid.entity.names'] = 'Invalid user or group name(s):';
+
+</script>
+
+<!-- Start permission section -->
+</a><div id="permissions_tab">
+<a name="locationSection">    <span class="formtitle">Restrictions: </span></a><a href="" onclick="togglePermissions(); return false;" class="inline-control-link" id="permissions_show_hide_link">Edit</a>
+</div>
+
+<div id="permissionsSummaryDiv">
+
+    <div id="viewPermissionsSummary" class="hidden">Viewing:
+        <span id="commaDelimitedViewPermissions">
+                </span>
+        <br>
+    </div>
+    <div id="editPermissionsSummary" class="hidden">Editing:
+        <span id="commaDelimitedEditPermissions">
+                </span>
+    </div>
+</div>
+
+<div id="permissionsDiv" class="toggleFormDiv editor-panel hidden">
+
+    
+    <div id="currentPermissionsBox" class="lightGreyBox">
+        <table style="width: 100%;" width="100%">
+            <tbody><tr>
+                <td align="left">
+                    <input value="view" name="pagePermissionTypeRadio" id="restrictViewRadio" onclick="if (this.checked) currentPermissionManager = viewPermissionManager;" checked="checked" type="radio"><label for="restrictViewRadio">Restrict viewing of this page</label>&nbsp;
+                    <input value="edit" name="pagePermissionTypeRadio" id="restrictEditRadio" onclick="if (this.checked) currentPermissionManager = editPermissionManager;" type="radio"><label for="restrictEditRadio">Restrict editing of this page</label>
+                </td>
+                <td align="right">
+                    <img id="waitImage" src="editpage.action_files/wait.gif" alt="Wait Image" style="display: none;" height="16px" width="16px">
+                </td>
+            </tr>
+        </tbody></table>
+
+        <div id="pagePermissionsErrorDiv" class="pagePermissionsErrorDiv hidden">
+            Invalid user or group name(s):
+        </div>
+
+        <table class="pagePermissionsInput" width="100%">
+            <tbody><tr>
+                <td align="left">
+                                        <a href="" onclick="currentPermissionManager.addPermissions('dnascimb');return false;"><img src="editpage.action_files/user_16.gif" alt="Choose me" align="absmiddle" border="0"></a>
+                    <a href="" onclick="resetValidationErrors();currentPermissionManager.addPermissions('dnascimb');return false;">Choose me</a>
+                                        |
+                    
+
+
+
+    
+
+
+
+<a href="#" id="userpicker-popup-link-image" onclick="var picker = window.open('/spaces/openuserpicker.action?key=mottos&amp;startIndex=0&amp;onPopupSubmit=addViewPermissionsUsers', 'EntitiesPicker', 'status=yes,resizable=yes,top=100,left=200,width=700,height=680,scrollbars=yes'); picker.focus(); return false;"><img src="editpage.action_files/user_16.gif" title="Choose users" align="absmiddle" border="0" height="16" width="16"></a>
+<a href="#" id="userpicker-popup-link-text" onclick="var picker = window.open('/spaces/openuserpicker.action?key=mottos&amp;startIndex=0&amp;onPopupSubmit=addViewPermissionsUsers', 'EntitiesPicker', 'status=yes,resizable=yes,top=100,left=200,width=700,height=680,scrollbars=yes'); picker.focus(); return false;">Choose users</a>
+
+
+                    |
+                    
+
+
+
+    
+
+ 
+
+<a href="#" id="grouppicker-popup-link-image" onclick="var picker = window.open('/spaces/opengrouppicker.action?key=mottos&amp;startIndex=0&amp;actionName=dosearchgroups.action&amp;onPopupSubmit=addViewPermissionsGroups', 'EntitiesPicker', 'status=yes,resizable=yes,top=100,left=200,width=580,height=550,scrollbars=yes'); picker.focus(); return false;"><img src="editpage.action_files/group_16.gif" title="Choose groups" align="absmiddle" border="0" height="16" width="16"></a>
+<a href="#" id="grouppicker-popup-link-text" onclick="var picker = window.open('/spaces/opengrouppicker.action?key=mottos&amp;startIndex=0&amp;actionName=dosearchgroups.action&amp;onPopupSubmit=addViewPermissionsGroups', 'EntitiesPicker', 'status=yes,resizable=yes,top=100,left=200,width=580,height=550,scrollbars=yes'); picker.focus(); return false;">Choose groups</a>
+
+
+                    |
+                    <span class="nobr">
+                    Enter user/group name(s):
+                    <input id="commaDelimitedEntityNames" name="commaDelimitedEntityNames" onkeypress="return handleEnter(event);" size="30" type="text">
+                    <img src="editpage.action_files/spacer.gif" height="16px" width="1px">
+                    <input id="addViewRestrictionsButton" value="Add" onclick="onAddPermission();" type="button">
+                    </span>
+                </td>
+            </tr>
+        </tbody></table>
+        <table id="pagePermissionsTable" class="pagePermissionsTable"><tbody><tr style="background-color: rgb(255, 255, 255);" id="noViewRestrictionsMessage"><td style="width: 16px;"><img src="editpage.action_files/restrictions_view_16.gif"></td><td colspan="3">No viewing restrictions set on this page</td></tr><tr style="border-top: 1px solid rgb(204, 204, 204); background-color: rgb(240, 240, 240);" id="noEditRestrictionsMessage"><td style="width: 16px;"><img src="editpage.action_files/restrictions_edit_16.gif"></td><td colspan="3">No editing restrictions set on this page</td></tr></tbody></table>
+        <div class="hidden">
+            <input name="viewPermissionsGroups" id="viewPermissionsGroups" type="text">            <input name="viewPermissionsUsers" id="viewPermissionsUsers" type="text">            <input name="editPermissionsGroups" id="editPermissionsGroups" type="text">            <input name="editPermissionsUsers" id="editPermissionsUsers" type="text">        </div>
+    </div>
+</div>
+
+<script>
+    
+
+        var permissionsTable = new PermissionsTable($('pagePermissionsTable'), true);
+
+            permissionsTable.addNoPermsRowForView();
+    
+            permissionsTable.addNoPermsRowForEdit();
+    
+    var inheritedPermissionsTable = new PermissionsTable($('inheritedViewRestrictions'), false);
+
+                    </script>
+              </div>
+        
+        <!-- labels section -->
+        <div class="inputSection">
+            
+    
+    
+    
+    
+
+<fieldset class="hidden parameters">
+    <input id="editLabel" value="Edit" type="hidden">
+    <input id="doneLabel" value="Done" type="hidden">
+    <input id="pageId" value="3080213" type="hidden">
+</fieldset>
+
+<div id="labels_tab">
+    <span class="formtitle">Labels: </span>
+    <a href="" class="inline-control-link" id="labels_edit_link">Edit</a>
+</div>
+<div id="labels_info">
+   
+</div>
+
+<div id="labels_div" class="toggleFormDiv editor-panel hidden" style="padding: 8px;">
+    <table width="100%">
+        <tbody><tr>
+            <td valign="top" width="60%">
+                <span class="error">
+                    <span class="errorMessage" id="errorSpan"></span>
+                </span>
+                                              <input autocomplete="off" id="labelsString" name="labelsString" class="monospaceInput" style="width: 100%;" type="text">
+                <div class="smalltext">Looking for a label? Just start typing.</div>
+                <div style="display: none;" class="auto_complete" id="labelsAutocompleteList"></div>
+            </td>
+            <td valign="top">
+                <div id="suggestedLabelsSpan" style="margin-top: 5px;">
+                </div>
+            </td>
+        </tr>
+    </tbody></table>
+</div>
+        </div>
+
+        
+        <div class="submit-buttons bottom">
+               <input tabindex="102" accesskey="s" name="confirm" value="Save" type="submit">&nbsp;&nbsp;
+<input tabindex="104" name="cancel" value="Cancel" type="submit">        </div>
+    </div>
+</form>
+    </div>
+</div>
+
+
+<br clear="all">
+
+
+	<div class="BottomStrip">
+		<table id="MegaFooter" align="center" width="760">
+			<tbody><tr valign="top">
+				<td width="20%">
+                <h2>Browse Space</h2>
+				<p>
+                    
+            - <a href="http://thehottiehotspots.com:8080/pages/listpages.action?key=mottos">Pages</a><br>
+            - <a href="http://thehottiehotspots.com:8080/pages/viewrecentblogposts.action?key=mottos">News</a><br>
+            - <a href="http://thehottiehotspots.com:8080/labels/listlabels-heatmap.action?key=mottos">Labels</a><br>
+            - <a href="http://thehottiehotspots.com:8080/spaces/listattachmentsforspace.action?key=mottos">Attachments</a><br>
+            - <a href="http://thehottiehotspots.com:8080/spaces/space-bookmarks.action?spaceKey=mottos">Bookmarks</a><br>
+            - <a href="http://thehottiehotspots.com:8080/spaces/viewmailarchive.action?key=mottos">Mail</a><br>
+            - <a href="http://thehottiehotspots.com:8080/spaces/viewspacesummary.action?key=mottos">Advanced</a><br>
+            - <a href="http://thehottiehotspots.com:8080/spaces/spaceadmin.action?key=mottos">Space Admin</a><br>
+    
+				</p>
+				</td>
+
+				<td width="20%">
+                <h2>Explore Confluence</h2>
+				<p>
+                    - <a href="http://thehottiehotspots.com:8080/labels/listlabels-heatmap.action">Popular Labels</a><br>
+                    - <a href="http://thehottiehotspots.com:8080/renderer/notationhelp.action">Notation Guide</a><br>
+				</p>
+				</td>
+				<td width="20%">
+                <h2>Your Account</h2>
+				<p>
+                                            Dan Nascimbeni <br><br>
+- <a id="set-user-status-link" href="http://thehottiehotspots.com:8080/display/%7Ednascimb">Update Status…</a><br>
+                                                                    - <a id="view-user-history-link" href="http://thehottiehotspots.com:8080/users/viewuserhistory.action">Recently Viewed</a><br>
+                                                                    - <a id="user-settings-link" href="http://thehottiehotspots.com:8080/users/viewmysettings.action">Settings</a><br>
+                                                                    - <a id="administration-link" href="http://thehottiehotspots.com:8080/admin/console.action">Administration</a><br>
+                                                                    - <a id="logout-link" href="http://thehottiehotspots.com:8080/logout.action">Log Out</a><br>
+                                                                                                        				</p>
+				</td>
+				<td id="other-features" width="20%">
+                    <h2>Other Features</h2>
+                    
+            <ul id="page-prefs-list">
+                                            <li><a id="pageFavourite" href="http://thehottiehotspots.com:8080/labels/addfavourite.action?entityId=3080213&amp;atl_token=B8ijD5mXE9"><img src="editpage.action_files/star_grey.gif" title="Add this page to your favourites list" alt="Add this page to your favourites list" align="absmiddle" border="0" height="16" width="16"></a></li>
+                            <li><a id="pageWatch" href="http://thehottiehotspots.com:8080/pages/addpagenotification.action?pageId=3080213&amp;atl_token=B8ijD5mXE9"><img src="editpage.action_files/watch_16.gif" title="Watch this page" alt="Watch this page" align="absmiddle" border="0" height="16" width="16"></a></li>
+                    </ul>
+    
+                    
+    <ul id="page-view-panel">
+        <li>    <a href="http://thehottiehotspots.com:8080/pages/editpage.action?pageId=3080213&amp;decorator=printable" rel="nofollow" title="View a printable version of the current page." class="print icon">View a printable version of the current page.</a>
+</li>
+                    <li>    
+                            <a href="http://thehottiehotspots.com:8080/spaces/flyingpdf/pdfpageexport.action?pageId=3080213&amp;atl_token=B8ijD5mXE9" rel="nofollow" title="Export Page as PDF" class="pdf icon">Export Page as PDF</a>
+                        </li>
+                 <li>    </li>
+    </ul>
+
+				</td>
+
+				<td width="20%">
+                <h2>Add Content</h2>
+				<p>
+                        
+                                    - <a href="http://thehottiehotspots.com:8080/pages/createpage.action?spaceKey=mottos&amp;fromPageId=3080213">Add Page</a><br>
+                                - <a href="http://thehottiehotspots.com:8080/pages/createblogpost.action?spaceKey=mottos">Add News</a><br>
+            
+
+                                                    - <a href="http://thehottiehotspots.com:8080/display/mottos/Home?showComments=true&amp;showCommentArea=true#addcomment">Add Comment</a><br>
+                                                                            - <a href="http://thehottiehotspots.com:8080/pages/viewpageattachments.action?pageId=3080213#attachFile">Add Attachment</a><br>
+                        				</p>
+				</td>
+            </tr>
+
+		</tbody></table>
+	</div>
+
+	<br clear="all">
+
+    <p class="footer">
+        Powered by <a href="http://www.atlassian.com/software/confluence" class="smalltext">Atlassian Confluence</a> 3.0.1, the <a href="http://www.atlassian.com/software/confluence" class="smalltext">Enterprise Wiki</a>.<br>
+        <a href="http://jira.atlassian.com/browse/CONF" class="smalltext">Bug/feature request</a>
+        -
+        <a href="http://thehottiehotspots.com:8080/administrators.action">Contact administrators</a>
+    </p>
+
+<!-- delay the loading of large javascript files to the end so that they don't interfere with the loading of page content -->
+<span style="display: none;"></span>
+
+
+<div style="display: none;" id="current-user-status-holder" class="current-user-latest-status"></div><div style="display: none;" id="content-hover-shadow"><div class="tl"></div><div class="tr"></div><div class="l"></div><div class="r"></div><div class="bl"></div><div class="br"></div><div class="b"></div></div><div style="margin: -265px 0pt 0pt -449px; width: 897px; height: 559px; display: none;" class="shadow"><div class="tl"></div><div class="tr"></div><div style="height: 512px;" class="l"></div><div style="height: 512px;" class="r"></div><div class="bl"></div><div class="br"></div><div style="width: 839px;" class="b"></div></div><div id="macro-browser-dialog" style="margin: -265px 0pt 0pt -433px; background: rgb(255, 255, 255) none repeat scroll 0% 0%; width: 865px; height: 530px; -moz-background-clip: border; -moz-background-origin: padding; -moz-background-inline-policy: continuous; display: none;" class="popup dialog"><div style="display: block;" class="dialog-components"><h2><form id="macro-browser-search-form"><input value="Search" class="blank-search" id="macro-browser-search" type="text"></form>Select Macro</h2><ul style="height: 485px;" class="page-menu"><li class="selected"><button>All</button></li><li class=""><button>Administration</button></li><li class=""><button>Communication</button></li><li class=""><button>Confluence Content</button></li><li class=""><button>Development</button></li><li class=""><button>External Content</button></li><li class=""><button>Formatting</button></li><li class=""><button>Navigation</button></li><li class=""><button>Reporting</button></li><li class=""><button>Visuals &amp; Images</button></li></ul><div class="page-body"><div style="padding: 0pt; height: 444px; display: block;" class="panel-body"><ol id="category-all" class="macro-list"><li id="macro-anchor" class="macro-list-item"><img src="editpage.action_files/anchor.png" alt="icon" title="Anchor" height="80" width="80">
+        <h3 class="macro-title">Anchor</h3>
+        <div class="macro-desc">Creates an anchor inside the page, which can be hyperlinked.</div>
+    </li><li id="macro-attachments" class="macro-list-item"><img src="editpage.action_files/attachments.png" alt="icon" title="Attachments" height="80" width="80">
+        <h3 class="macro-title">Attachments</h3>
+        <div class="macro-desc">Creates a list of attachments belonging to this page.</div>
+    </li><li id="macro-blog-posts" class="macro-list-item"><img src="editpage.action_files/blog-posts.png" alt="icon" title="Blog Posts" height="80" width="80">
+        <h3 class="macro-title">Blog Posts</h3>
+        <div class="macro-desc">Lists the most recent news items in the space.</div>
+    </li><li id="macro-bookmarks" class="macro-list-item"><img src="editpage.action_files/bookmarks.png" alt="icon" title="Bookmarks" height="80" width="80">
+        <h3 class="macro-title">Bookmarks</h3>
+        <div class="macro-desc">Includes a list of bookmarks on a Confluence page.</div>
+    </li><li id="macro-calendar" class="macro-list-item">
+        <h3 class="macro-title">Calendar</h3>
+        <div class="macro-desc">Displays an iCalendar-friendly calendar.</div>
+    </li><li id="macro-calendar-events" class="macro-list-item">
+        <h3 class="macro-title">Calendar events</h3>
+        <div class="macro-desc">Displays a list of calendar events.</div>
+    </li><li id="macro-change-history" class="macro-list-item"><img src="editpage.action_files/change-history.png" alt="icon" title="Change History" height="80" width="80">
+        <h3 class="macro-title">Change History</h3>
+        <div class="macro-desc">Shows the history of version comments for the current page or news item.</div>
+    </li><li id="macro-chart" class="macro-list-item"><img src="editpage.action_files/chart.png" alt="icon" title="Chart" height="80" width="80">
+        <h3 class="macro-title">Chart</h3>
+        <div class="macro-desc">Displays a chart using data from the supplied table or tables.</div>
+    </li><li id="macro-cheese" class="macro-list-item"><img src="editpage.action_files/cheese.png" alt="icon" title="Cheese" height="80" width="80">
+        <h3 class="macro-title">Cheese</h3>
+        <div class="macro-desc">Inserts the text <code>'I like cheese!'</code>, used for testing macro functionality.</div>
+    </li><li id="macro-children" class="macro-list-item"><img src="editpage.action_files/children.png" alt="icon" title="Children Display" height="80" width="80">
+        <h3 class="macro-title">Children Display</h3>
+        <div class="macro-desc">Lists a page's children and their descendant pages.</div>
+    </li><li id="macro-code" class="macro-list-item"><img src="editpage.action_files/code.png" alt="icon" title="Code Block" height="80" width="80">
+        <h3 class="macro-title">Code Block</h3>
+        <div class="macro-desc">Displays source code in your page with the appropriate syntax highlighting.</div>
+    </li><li id="macro-color" class="macro-list-item"><img src="editpage.action_files/colour.png" alt="icon" title="Colour Text" height="80" width="80">
+        <h3 class="macro-title">Colour Text</h3>
+        <div class="macro-desc">Change the colour of a block of text.</div>
+    </li><li id="macro-column" class="macro-list-item"><img src="editpage.action_files/column.png" alt="icon" title="Column" height="80" width="80">
+        <h3 class="macro-title">Column</h3>
+        <div class="macro-desc">Defines a column on the page. (Must be used within a Section macro.)</div>
+    </li><li id="macro-contentbylabel" class="macro-list-item"><img src="editpage.action_files/contentbylabel.png" alt="icon" title="Content by Label" height="80" width="80">
+        <h3 class="macro-title">Content by Label</h3>
+        <div class="macro-desc">Lists pages tagged with one or more specific labels.</div>
+    </li><li id="macro-content-by-user" class="macro-list-item"><img src="editpage.action_files/content-by-user.png" alt="icon" title="Content by User" height="80" width="80">
+        <h3 class="macro-title">Content by User</h3>
+        <div class="macro-desc">Lists pages created by a particular user.</div>
+    </li><li id="macro-contributors" class="macro-list-item"><img src="editpage.action_files/contributors.png" alt="icon" title="Contributors" height="80" width="80">
+        <h3 class="macro-title">Contributors</h3>
+        <div class="macro-desc">Displays a list of contributors to a page, its hierarchy or selected spaces, or watches of these pages.</div>
+    </li><li id="macro-contributors-summary" class="macro-list-item"><img src="editpage.action_files/contributors-summary.png" alt="icon" title="Contributors Summary" height="80" width="80">
+        <h3 class="macro-title">Contributors Summary</h3>
+        <div class="macro-desc">Displays a summary of contributions to a page, its hierarchy or selected spaces, in tabular form.</div>
+    </li><li id="macro-create-space-button" class="macro-list-item">
+        <h3 class="macro-title">Create Space Button</h3>
+        <div class="macro-desc">Displays a create space icon that links to the create space page.</div>
+    </li><li id="macro-doc" class="macro-list-item">
+        <h3 class="macro-title">Documentation Link</h3>
+        <div class="macro-desc">Links to documentation on http://confluence.atlassian.com/.</div>
+    </li><li id="macro-editinwordlink" class="macro-list-item">
+        <h3 class="macro-title">Edit in Word Link</h3>
+        <div class="macro-desc">Display an Edit in Word icon link on your page.</div>
+    </li><li id="macro-excerpt" class="macro-list-item"><img src="editpage.action_files/excerpt.png" alt="icon" title="Excerpt" height="80" width="80">
+        <h3 class="macro-title">Excerpt</h3>
+        <div class="macro-desc">Marks part of the page's content for use by other macros.</div>
+    </li><li id="macro-excerpt-include" class="macro-list-item"><img src="editpage.action_files/excerpt-include.png" alt="icon" title="Excerpt Include" height="80" width="80">
+        <h3 class="macro-title">Excerpt Include</h3>
+        <div class="macro-desc">Displays the excerpted contents from another page within the same space.</div>
+    </li><li id="macro-favpages" class="macro-list-item"><img src="editpage.action_files/favpages.png" alt="icon" title="Favourite Pages" height="80" width="80">
+        <h3 class="macro-title">Favourite Pages</h3>
+        <div class="macro-desc">Lists your favourite pages.</div>
+    </li><li id="macro-gallery" class="macro-list-item"><img src="editpage.action_files/gallery.png" alt="icon" title="Gallery" height="80" width="80">
+        <h3 class="macro-title">Gallery</h3>
+        <div class="macro-desc">Creates a thumbnail gallery from a page's attachments.</div>
+    </li><li id="macro-global-reports" class="macro-list-item">
+        <h3 class="macro-title">Global Reports</h3>
+        <div class="macro-desc">Displays a list of links to global reports.</div>
+    </li><li id="macro-im" class="macro-list-item">
+        <h3 class="macro-title">IM Presence</h3>
+        <div class="macro-desc">Displays a graphic indicating if a contact is signed into their Instant Messenger service.</div>
+    </li><li id="macro-include" class="macro-list-item"><img src="editpage.action_files/include.png" alt="icon" title="Include Page" height="80" width="80">
+        <h3 class="macro-title">Include Page</h3>
+        <div class="macro-desc">Includes the contents of a page within another.</div>
+    </li><li id="macro-info" class="macro-list-item"><img src="editpage.action_files/info.png" alt="icon" title="Info" height="80" width="80">
+        <h3 class="macro-title">Info</h3>
+        <div class="macro-desc">Highlights content as an informational note with a blue background.</div>
+    </li><li id="macro-jiraissues" class="macro-list-item"><img src="editpage.action_files/jiraissues.png" alt="icon" title="JIRA Issues" height="80" width="80">
+        <h3 class="macro-title">JIRA Issues</h3>
+        <div class="macro-desc">Displays a list of issues from a JIRA site on your Confluence page.</div>
+    </li><li id="macro-jiraportlet" class="macro-list-item"><img src="editpage.action_files/jiraportlet.png" alt="icon" title="JIRA Portlet" height="80" width="80">
+        <h3 class="macro-title">JIRA Portlet</h3>
+        <div class="macro-desc">Displays a JIRA dashboard portlet on your Confluence page.</div>
+    </li><li id="macro-junitreport" class="macro-list-item">
+        <h3 class="macro-title">JUnit Report</h3>
+        <div class="macro-desc">Displays the results of JUnit tests. JUnit is a unit testing framework for Java.</div>
+    </li><li id="macro-listlabels" class="macro-list-item"><img src="editpage.action_files/listlabels.png" alt="icon" title="Labels List" height="80" width="80">
+        <h3 class="macro-title">Labels List</h3>
+        <div class="macro-desc">Lists all labels of a space, grouped alphabetically.</div>
+    </li><li id="macro-livesearch" class="macro-list-item"><img src="editpage.action_files/livesearch.png" alt="icon" title="Livesearch" height="80" width="80">
+        <h3 class="macro-title">Livesearch</h3>
+        <div class="macro-desc">Embeds a search box into your Confluence page to show search results as you type.</div>
+    </li><li id="macro-loremipsum" class="macro-list-item">
+        <h3 class="macro-title">Loremipsum</h3>
+        <div class="macro-desc">Displays paragraphs of pseudo-Latin (space-filler) text.</div>
+    </li><li id="macro-details" class="macro-list-item">
+        <h3 class="macro-title">Metadata</h3>
+        <div class="macro-desc">Embeds metadata into pages and blog posts for presentation with the 'Metadata Summary' macro.</div>
+    </li><li id="macro-detailssummary" class="macro-list-item">
+        <h3 class="macro-title">Metadata Summary</h3>
+        <div class="macro-desc">Shows a tabulated report of metadata created with the 'Metadata' macro.</div>
+    </li><li id="macro-navmap" class="macro-list-item"><img src="editpage.action_files/navmap.png" alt="icon" title="Navigation Map" height="80" width="80">
+        <h3 class="macro-title">Navigation Map</h3>
+        <div class="macro-desc">Creates a map of pages associated with a specified label.</div>
+    </li><li id="macro-network" class="macro-list-item"><img src="editpage.action_files/network.png" alt="icon" title="Network" height="80" width="80">
+        <h3 class="macro-title">Network</h3>
+        <div class="macro-desc">Displays the network of a user.</div>
+    </li><li id="macro-noformat" class="macro-list-item"><img src="editpage.action_files/noformat.png" alt="icon" title="No Format" height="80" width="80">
+        <h3 class="macro-title">No Format</h3>
+        <div class="macro-desc">Displays text in monospace font within a panel, with no other formatting applied.</div>
+    </li><li id="macro-nolink" class="macro-list-item">
+        <h3 class="macro-title">No Link</h3>
+        <div class="macro-desc">Displays a web address or URL without hyperlinking to the URL. </div>
+    </li><li id="macro-note" class="macro-list-item"><img src="editpage.action_files/note.png" alt="icon" title="Note" height="80" width="80">
+        <h3 class="macro-title">Note</h3>
+        <div class="macro-desc">Highlights content as a note with a yellow background.</div>
+    </li><li id="macro-viewxls" class="macro-list-item"><img src="editpage.action_files/viewfile-xls.png" alt="icon" title="Office Excel" height="80" width="80">
+        <h3 class="macro-title">Office Excel</h3>
+        <div class="macro-desc">Embeds an Office Excel document (.xls) into your Confluence page.</div>
+    </li><li id="macro-viewppt" class="macro-list-item"><img src="editpage.action_files/viewfile-ppt.png" alt="icon" title="Office Powerpoint" height="80" width="80">
+        <h3 class="macro-title">Office Powerpoint</h3>
+        <div class="macro-desc">Embeds an Office Powerpoint document (.ppt) into your Confluence page.</div>
+    </li><li id="macro-viewdoc" class="macro-list-item"><img src="editpage.action_files/viewfile-doc.png" alt="icon" title="Office Word" height="80" width="80">
+        <h3 class="macro-title">Office Word</h3>
+        <div class="macro-desc">Embeds an Office Word document (.doc) file into your Confluence page.</div>
+    </li><li id="macro-index" class="macro-list-item"><img src="editpage.action_files/pageindex.png" alt="icon" title="Page Index" height="80" width="80">
+        <h3 class="macro-title">Page Index</h3>
+        <div class="macro-desc">Creates an index of all pages within the space.</div>
+    </li><li id="macro-pagetree" class="macro-list-item"><img src="editpage.action_files/pagetree.png" alt="icon" title="Page Tree" height="80" width="80">
+        <h3 class="macro-title">Page Tree</h3>
+        <div class="macro-desc">Displays a dynamic, hierarchical list of pages starting from a specified parent (root) page.</div>
+    </li><li id="macro-pagetreesearch" class="macro-list-item"><img src="editpage.action_files/pagetreesearch.png" alt="icon" title="Page Tree Search" height="80" width="80">
+        <h3 class="macro-title">Page Tree Search</h3>
+        <div class="macro-desc">Provides a search box that searches a hierarchy of pages (Page Tree) from a specified root page.</div>
+    </li><li id="macro-panel" class="macro-list-item"><img src="editpage.action_files/panel.png" alt="icon" title="Panel" height="80" width="80">
+        <h3 class="macro-title">Panel</h3>
+        <div class="macro-desc">Displays a block of text within a customisable panel.</div>
+    </li><li id="macro-popular-labels" class="macro-list-item"><img src="editpage.action_files/popular-labels.png" alt="icon" title="Popular Labels" height="80" width="80">
+        <h3 class="macro-title">Popular Labels</h3>
+        <div class="macro-desc">Generates a list or 'heatmap' of the most popular labels.</div>
+    </li><li id="macro-quote" class="macro-list-item"><img src="editpage.action_files/quote.png" alt="icon" title="Quote" height="80" width="80">
+        <h3 class="macro-title">Quote</h3>
+        <div class="macro-desc">Formats a block of text consisting of one or more paragraphs into a quote.</div>
+    </li><li id="macro-recently-updated" class="macro-list-item"><img src="editpage.action_files/recently-updated.png" alt="icon" title="Recently Updated" height="80" width="80">
+        <h3 class="macro-title">Recently Updated</h3>
+        <div class="macro-desc">Lists the most recently changed content within Confluence.</div>
+    </li><li id="macro-recently-updated-dashboard" class="macro-list-item">
+        <h3 class="macro-title">Recently Updated Dashboard</h3>
+        <div class="macro-desc">Lists the most recently changed Confluence content in a dashboard view style.</div>
+    </li><li id="macro-recently-used-labels" class="macro-list-item">
+        <h3 class="macro-title">Recently Used Labels</h3>
+        <div class="macro-desc">Lists the most recently used labels in a predefined scope of spaces.</div>
+    </li><li id="macro-related-labels" class="macro-list-item"><img src="editpage.action_files/related-labels.png" alt="icon" title="Related Labels" height="80" width="80">
+        <h3 class="macro-title">Related Labels</h3>
+        <div class="macro-desc">Lists all tagged labels from every page that has labels in common with the current page.</div>
+    </li><li id="macro-rss" class="macro-list-item"><img src="editpage.action_files/rssfeed.png" alt="icon" title="RSS Feed" height="80" width="80">
+        <h3 class="macro-title">RSS Feed</h3>
+        <div class="macro-desc">Embeds an RSS feed on a page and displays the contents of external or internal Confluence feeds.</div>
+    </li><li id="macro-search" class="macro-list-item"><img src="editpage.action_files/search.png" alt="icon" title="Search Results" height="80" width="80">
+        <h3 class="macro-title">Search Results</h3>
+        <div class="macro-desc">Searches your Confluence site based on specified terms and displays the results on the page.</div>
+    </li><li id="macro-section" class="macro-list-item"><img src="editpage.action_files/section.png" alt="icon" title="Section" height="80" width="80">
+        <h3 class="macro-title">Section</h3>
+        <div class="macro-desc">Defines a section on a page, which can contain one or more Column macros.</div>
+    </li><li id="macro-space-details" class="macro-list-item"><img src="editpage.action_files/space-details.png" alt="icon" title="Space Details" height="80" width="80">
+        <h3 class="macro-title">Space Details</h3>
+        <div class="macro-desc">Displays a table containing information about the current space.</div>
+    </li><li id="macro-spacebookmarkslink" class="macro-list-item">
+        <h3 class="macro-title">Spacebookmarkslink</h3>
+        <div class="macro-desc">A macro that generates the links in the information panel in the .bookmarks page.</div>
+    </li><li id="macro-spaces" class="macro-list-item"><img src="editpage.action_files/spaces.png" alt="icon" title="Spaces List" height="80" width="80">
+        <h3 class="macro-title">Spaces List</h3>
+        <div class="macro-desc">Displays a list of spaces witin the page.</div>
+    </li><li id="macro-toc-zone" class="macro-list-item">
+        <h3 class="macro-title">Table of Content Zone</h3>
+        <div class="macro-desc">Generates a table of contents based on the headings present within its body text zone.</div>
+    </li><li id="macro-toc" class="macro-list-item"><img src="editpage.action_files/toc.png" alt="icon" title="Table of Contents" height="80" width="80">
+        <h3 class="macro-title">Table of Contents</h3>
+        <div class="macro-desc">Generates a hyperlinked table of contents based on the headings present in the current page.</div>
+    </li><li id="macro-tasklist" class="macro-list-item"><img src="editpage.action_files/dynamictasklist.png" alt="icon" title="Tasklist" height="80" width="80">
+        <h3 class="macro-title">Tasklist</h3>
+        <div class="macro-desc">Displays a modifiable and interactive task list.</div>
+    </li><li id="macro-tip" class="macro-list-item"><img src="editpage.action_files/tip.png" alt="icon" title="Tip" height="80" width="80">
+        <h3 class="macro-title">Tip</h3>
+        <div class="macro-desc">Highlights content as a helpful tip with a green background.</div>
+    </li><li id="macro-userlister" class="macro-list-item">
+        <h3 class="macro-title">User List</h3>
+        <div class="macro-desc">Displays a list of Confluence users based on group membership.</div>
+    </li><li id="macro-profile" class="macro-list-item"><img src="editpage.action_files/profile.png" alt="icon" title="User Profile" height="80" width="80">
+        <h3 class="macro-title">User Profile</h3>
+        <div class="macro-desc">Displays a user's profile details.</div>
+    </li><li id="macro-status-list" class="macro-list-item"><img src="editpage.action_files/status-list.png" alt="icon" title="User Status List" height="80" width="80">
+        <h3 class="macro-title">User Status List</h3>
+        <div class="macro-desc">Displays a list of statuses for a user.</div>
+    </li><li id="macro-viewpdf" class="macro-list-item"><img src="editpage.action_files/viewfile-pdf.png" alt="icon" title="View PDF" height="80" width="80">
+        <h3 class="macro-title">View PDF</h3>
+        <div class="macro-desc">Embeds a PDF document (.pdf) into your Confluence page.</div>
+    </li><li id="macro-warning" class="macro-list-item"><img src="editpage.action_files/warning.png" alt="icon" title="Warning" height="80" width="80">
+        <h3 class="macro-title">Warning</h3>
+        <div class="macro-desc">Highlights content as a warning note with a red background.</div>
+    </li><li id="macro-widget" class="macro-list-item"><img src="editpage.action_files/widgetconnector.png" alt="icon" title="Widget Connector" height="80" width="80">
+        <h3 class="macro-title">Widget Connector</h3>
+        <div class="macro-desc">Embed multi-media content from other web sites into your Confluence page.</div>
+    </li></ol></div><div style="padding: 0pt; height: 444px; display: none;" class="panel-body admin"><ol id="category-admin" class="macro-list"><li id="admin-macro-doc" class="macro-list-item">
+        <h3 class="macro-title">Documentation Link</h3>
+        <div class="macro-desc">Links to documentation on http://confluence.atlassian.com/.</div>
+    </li></ol></div><div style="padding: 0pt; height: 444px; display: none;" class="panel-body communication"><ol id="category-communication" class="macro-list"><li id="communication-macro-im" class="macro-list-item">
+        <h3 class="macro-title">IM Presence</h3>
+        <div class="macro-desc">Displays a graphic indicating if a contact is signed into their Instant Messenger service.</div>
+    </li></ol></div><div style="padding: 0pt; height: 444px; display: none;" class="panel-body confluence-content"><ol id="category-confluence-content" class="macro-list"><li id="confluence-content-macro-attachments" class="macro-list-item"><img src="editpage.action_files/attachments.png" alt="icon" title="Attachments" height="80" width="80">
+        <h3 class="macro-title">Attachments</h3>
+        <div class="macro-desc">Creates a list of attachments belonging to this page.</div>
+    </li><li id="confluence-content-macro-blog-posts" class="macro-list-item"><img src="editpage.action_files/blog-posts.png" alt="icon" title="Blog Posts" height="80" width="80">
+        <h3 class="macro-title">Blog Posts</h3>
+        <div class="macro-desc">Lists the most recent news items in the space.</div>
+    </li><li id="confluence-content-macro-change-history" class="macro-list-item"><img src="editpage.action_files/change-history.png" alt="icon" title="Change History" height="80" width="80">
+        <h3 class="macro-title">Change History</h3>
+        <div class="macro-desc">Shows the history of version comments for the current page or news item.</div>
+    </li><li id="confluence-content-macro-children" class="macro-list-item"><img src="editpage.action_files/children.png" alt="icon" title="Children Display" height="80" width="80">
+        <h3 class="macro-title">Children Display</h3>
+        <div class="macro-desc">Lists a page's children and their descendant pages.</div>
+    </li><li id="confluence-content-macro-contentbylabel" class="macro-list-item"><img src="editpage.action_files/contentbylabel.png" alt="icon" title="Content by Label" height="80" width="80">
+        <h3 class="macro-title">Content by Label</h3>
+        <div class="macro-desc">Lists pages tagged with one or more specific labels.</div>
+    </li><li id="confluence-content-macro-content-by-user" class="macro-list-item"><img src="editpage.action_files/content-by-user.png" alt="icon" title="Content by User" height="80" width="80">
+        <h3 class="macro-title">Content by User</h3>
+        <div class="macro-desc">Lists pages created by a particular user.</div>
+    </li><li id="confluence-content-macro-contributors" class="macro-list-item"><img src="editpage.action_files/contributors.png" alt="icon" title="Contributors" height="80" width="80">
+        <h3 class="macro-title">Contributors</h3>
+        <div class="macro-desc">Displays a list of contributors to a page, its hierarchy or selected spaces, or watches of these pages.</div>
+    </li><li id="confluence-content-macro-contributors-summary" class="macro-list-item"><img src="editpage.action_files/contributors-summary.png" alt="icon" title="Contributors Summary" height="80" width="80">
+        <h3 class="macro-title">Contributors Summary</h3>
+        <div class="macro-desc">Displays a summary of contributions to a page, its hierarchy or selected spaces, in tabular form.</div>
+    </li><li id="confluence-content-macro-create-space-button" class="macro-list-item">
+        <h3 class="macro-title">Create Space Button</h3>
+        <div class="macro-desc">Displays a create space icon that links to the create space page.</div>
+    </li><li id="confluence-content-macro-excerpt" class="macro-list-item"><img src="editpage.action_files/excerpt.png" alt="icon" title="Excerpt" height="80" width="80">
+        <h3 class="macro-title">Excerpt</h3>
+        <div class="macro-desc">Marks part of the page's content for use by other macros.</div>
+    </li><li id="confluence-content-macro-excerpt-include" class="macro-list-item"><img src="editpage.action_files/excerpt-include.png" alt="icon" title="Excerpt Include" height="80" width="80">
+        <h3 class="macro-title">Excerpt Include</h3>
+        <div class="macro-desc">Displays the excerpted contents from another page within the same space.</div>
+    </li><li id="confluence-content-macro-favpages" class="macro-list-item"><img src="editpage.action_files/favpages.png" alt="icon" title="Favourite Pages" height="80" width="80">
+        <h3 class="macro-title">Favourite Pages</h3>
+        <div class="macro-desc">Lists your favourite pages.</div>
+    </li><li id="confluence-content-macro-include" class="macro-list-item"><img src="editpage.action_files/include.png" alt="icon" title="Include Page" height="80" width="80">
+        <h3 class="macro-title">Include Page</h3>
+        <div class="macro-desc">Includes the contents of a page within another.</div>
+    </li><li id="confluence-content-macro-listlabels" class="macro-list-item"><img src="editpage.action_files/listlabels.png" alt="icon" title="Labels List" height="80" width="80">
+        <h3 class="macro-title">Labels List</h3>
+        <div class="macro-desc">Lists all labels of a space, grouped alphabetically.</div>
+    </li><li id="confluence-content-macro-network" class="macro-list-item"><img src="editpage.action_files/network.png" alt="icon" title="Network" height="80" width="80">
+        <h3 class="macro-title">Network</h3>
+        <div class="macro-desc">Displays the network of a user.</div>
+    </li><li id="confluence-content-macro-viewxls" class="macro-list-item"><img src="editpage.action_files/viewfile-xls.png" alt="icon" title="Office Excel" height="80" width="80">
+        <h3 class="macro-title">Office Excel</h3>
+        <div class="macro-desc">Embeds an Office Excel document (.xls) into your Confluence page.</div>
+    </li><li id="confluence-content-macro-viewppt" class="macro-list-item"><img src="editpage.action_files/viewfile-ppt.png" alt="icon" title="Office Powerpoint" height="80" width="80">
+        <h3 class="macro-title">Office Powerpoint</h3>
+        <div class="macro-desc">Embeds an Office Powerpoint document (.ppt) into your Confluence page.</div>
+    </li><li id="confluence-content-macro-viewdoc" class="macro-list-item"><img src="editpage.action_files/viewfile-doc.png" alt="icon" title="Office Word" height="80" width="80">
+        <h3 class="macro-title">Office Word</h3>
+        <div class="macro-desc">Embeds an Office Word document (.doc) file into your Confluence page.</div>
+    </li><li id="confluence-content-macro-popular-labels" class="macro-list-item"><img src="editpage.action_files/popular-labels.png" alt="icon" title="Popular Labels" height="80" width="80">
+        <h3 class="macro-title">Popular Labels</h3>
+        <div class="macro-desc">Generates a list or 'heatmap' of the most popular labels.</div>
+    </li><li id="confluence-content-macro-recently-updated" class="macro-list-item"><img src="editpage.action_files/recently-updated.png" alt="icon" title="Recently Updated" height="80" width="80">
+        <h3 class="macro-title">Recently Updated</h3>
+        <div class="macro-desc">Lists the most recently changed content within Confluence.</div>
+    </li><li id="confluence-content-macro-recently-updated-dashboard" class="macro-list-item">
+        <h3 class="macro-title">Recently Updated Dashboard</h3>
+        <div class="macro-desc">Lists the most recently changed Confluence content in a dashboard view style.</div>
+    </li><li id="confluence-content-macro-recently-used-labels" class="macro-list-item">
+        <h3 class="macro-title">Recently Used Labels</h3>
+        <div class="macro-desc">Lists the most recently used labels in a predefined scope of spaces.</div>
+    </li><li id="confluence-content-macro-related-labels" class="macro-list-item"><img src="editpage.action_files/related-labels.png" alt="icon" title="Related Labels" height="80" width="80">
+        <h3 class="macro-title">Related Labels</h3>
+        <div class="macro-desc">Lists all tagged labels from every page that has labels in common with the current page.</div>
+    </li><li id="confluence-content-macro-space-details" class="macro-list-item"><img src="editpage.action_files/space-details.png" alt="icon" title="Space Details" height="80" width="80">
+        <h3 class="macro-title">Space Details</h3>
+        <div class="macro-desc">Displays a table containing information about the current space.</div>
+    </li><li id="confluence-content-macro-spaces" class="macro-list-item"><img src="editpage.action_files/spaces.png" alt="icon" title="Spaces List" height="80" width="80">
+        <h3 class="macro-title">Spaces List</h3>
+        <div class="macro-desc">Displays a list of spaces witin the page.</div>
+    </li><li id="confluence-content-macro-profile" class="macro-list-item"><img src="editpage.action_files/profile.png" alt="icon" title="User Profile" height="80" width="80">
+        <h3 class="macro-title">User Profile</h3>
+        <div class="macro-desc">Displays a user's profile details.</div>
+    </li><li id="confluence-content-macro-status-list" class="macro-list-item"><img src="editpage.action_files/status-list.png" alt="icon" title="User Status List" height="80" width="80">
+        <h3 class="macro-title">User Status List</h3>
+        <div class="macro-desc">Displays a list of statuses for a user.</div>
+    </li><li id="confluence-content-macro-viewpdf" class="macro-list-item"><img src="editpage.action_files/viewfile-pdf.png" alt="icon" title="View PDF" height="80" width="80">
+        <h3 class="macro-title">View PDF</h3>
+        <div class="macro-desc">Embeds a PDF document (.pdf) into your Confluence page.</div>
+    </li></ol></div><div style="padding: 0pt; height: 444px; display: none;" class="panel-body development"><ol id="category-development" class="macro-list"><li id="development-macro-cheese" class="macro-list-item"><img src="editpage.action_files/cheese.png" alt="icon" title="Cheese" height="80" width="80">
+        <h3 class="macro-title">Cheese</h3>
+        <div class="macro-desc">Inserts the text <code>'I like cheese!'</code>, used for testing macro functionality.</div>
+    </li><li id="development-macro-code" class="macro-list-item"><img src="editpage.action_files/code.png" alt="icon" title="Code Block" height="80" width="80">
+        <h3 class="macro-title">Code Block</h3>
+        <div class="macro-desc">Displays source code in your page with the appropriate syntax highlighting.</div>
+    </li><li id="development-macro-jiraissues" class="macro-list-item"><img src="editpage.action_files/jiraissues.png" alt="icon" title="JIRA Issues" height="80" width="80">
+        <h3 class="macro-title">JIRA Issues</h3>
+        <div class="macro-desc">Displays a list of issues from a JIRA site on your Confluence page.</div>
+    </li><li id="development-macro-jiraportlet" class="macro-list-item"><img src="editpage.action_files/jiraportlet.png" alt="icon" title="JIRA Portlet" height="80" width="80">
+        <h3 class="macro-title">JIRA Portlet</h3>
+        <div class="macro-desc">Displays a JIRA dashboard portlet on your Confluence page.</div>
+    </li><li id="development-macro-junitreport" class="macro-list-item">
+        <h3 class="macro-title">JUnit Report</h3>
+        <div class="macro-desc">Displays the results of JUnit tests. JUnit is a unit testing framework for Java.</div>
+    </li><li id="development-macro-loremipsum" class="macro-list-item">
+        <h3 class="macro-title">Loremipsum</h3>
+        <div class="macro-desc">Displays paragraphs of pseudo-Latin (space-filler) text.</div>
+    </li></ol></div><div style="padding: 0pt; height: 444px; display: none;" class="panel-body external-content"><ol id="category-external-content" class="macro-list"><li id="external-content-macro-editinwordlink" class="macro-list-item">
+        <h3 class="macro-title">Edit in Word Link</h3>
+        <div class="macro-desc">Display an Edit in Word icon link on your page.</div>
+    </li><li id="external-content-macro-jiraissues" class="macro-list-item"><img src="editpage.action_files/jiraissues.png" alt="icon" title="JIRA Issues" height="80" width="80">
+        <h3 class="macro-title">JIRA Issues</h3>
+        <div class="macro-desc">Displays a list of issues from a JIRA site on your Confluence page.</div>
+    </li><li id="external-content-macro-jiraportlet" class="macro-list-item"><img src="editpage.action_files/jiraportlet.png" alt="icon" title="JIRA Portlet" height="80" width="80">
+        <h3 class="macro-title">JIRA Portlet</h3>
+        <div class="macro-desc">Displays a JIRA dashboard portlet on your Confluence page.</div>
+    </li><li id="external-content-macro-rss" class="macro-list-item"><img src="editpage.action_files/rssfeed.png" alt="icon" title="RSS Feed" height="80" width="80">
+        <h3 class="macro-title">RSS Feed</h3>
+        <div class="macro-desc">Embeds an RSS feed on a page and displays the contents of external or internal Confluence feeds.</div>
+    </li><li id="external-content-macro-tasklist" class="macro-list-item"><img src="editpage.action_files/dynamictasklist.png" alt="icon" title="Tasklist" height="80" width="80">
+        <h3 class="macro-title">Tasklist</h3>
+        <div class="macro-desc">Displays a modifiable and interactive task list.</div>
+    </li><li id="external-content-macro-widget" class="macro-list-item"><img src="editpage.action_files/widgetconnector.png" alt="icon" title="Widget Connector" height="80" width="80">
+        <h3 class="macro-title">Widget Connector</h3>
+        <div class="macro-desc">Embed multi-media content from other web sites into your Confluence page.</div>
+    </li></ol></div><div style="padding: 0pt; height: 444px; display: none;" class="panel-body formatting"><ol id="category-formatting" class="macro-list"><li id="formatting-macro-code" class="macro-list-item"><img src="editpage.action_files/code.png" alt="icon" title="Code Block" height="80" width="80">
+        <h3 class="macro-title">Code Block</h3>
+        <div class="macro-desc">Displays source code in your page with the appropriate syntax highlighting.</div>
+    </li><li id="formatting-macro-color" class="macro-list-item"><img src="editpage.action_files/colour.png" alt="icon" title="Colour Text" height="80" width="80">
+        <h3 class="macro-title">Colour Text</h3>
+        <div class="macro-desc">Change the colour of a block of text.</div>
+    </li><li id="formatting-macro-column" class="macro-list-item"><img src="editpage.action_files/column.png" alt="icon" title="Column" height="80" width="80">
+        <h3 class="macro-title">Column</h3>
+        <div class="macro-desc">Defines a column on the page. (Must be used within a Section macro.)</div>
+    </li><li id="formatting-macro-info" class="macro-list-item"><img src="editpage.action_files/info.png" alt="icon" title="Info" height="80" width="80">
+        <h3 class="macro-title">Info</h3>
+        <div class="macro-desc">Highlights content as an informational note with a blue background.</div>
+    </li><li id="formatting-macro-noformat" class="macro-list-item"><img src="editpage.action_files/noformat.png" alt="icon" title="No Format" height="80" width="80">
+        <h3 class="macro-title">No Format</h3>
+        <div class="macro-desc">Displays text in monospace font within a panel, with no other formatting applied.</div>
+    </li><li id="formatting-macro-nolink" class="macro-list-item">
+        <h3 class="macro-title">No Link</h3>
+        <div class="macro-desc">Displays a web address or URL without hyperlinking to the URL. </div>
+    </li><li id="formatting-macro-note" class="macro-list-item"><img src="editpage.action_files/note.png" alt="icon" title="Note" height="80" width="80">
+        <h3 class="macro-title">Note</h3>
+        <div class="macro-desc">Highlights content as a note with a yellow background.</div>
+    </li><li id="formatting-macro-panel" class="macro-list-item"><img src="editpage.action_files/panel.png" alt="icon" title="Panel" height="80" width="80">
+        <h3 class="macro-title">Panel</h3>
+        <div class="macro-desc">Displays a block of text within a customisable panel.</div>
+    </li><li id="formatting-macro-quote" class="macro-list-item"><img src="editpage.action_files/quote.png" alt="icon" title="Quote" height="80" width="80">
+        <h3 class="macro-title">Quote</h3>
+        <div class="macro-desc">Formats a block of text consisting of one or more paragraphs into a quote.</div>
+    </li><li id="formatting-macro-section" class="macro-list-item"><img src="editpage.action_files/section.png" alt="icon" title="Section" height="80" width="80">
+        <h3 class="macro-title">Section</h3>
+        <div class="macro-desc">Defines a section on a page, which can contain one or more Column macros.</div>
+    </li><li id="formatting-macro-tip" class="macro-list-item"><img src="editpage.action_files/tip.png" alt="icon" title="Tip" height="80" width="80">
+        <h3 class="macro-title">Tip</h3>
+        <div class="macro-desc">Highlights content as a helpful tip with a green background.</div>
+    </li><li id="formatting-macro-warning" class="macro-list-item"><img src="editpage.action_files/warning.png" alt="icon" title="Warning" height="80" width="80">
+        <h3 class="macro-title">Warning</h3>
+        <div class="macro-desc">Highlights content as a warning note with a red background.</div>
+    </li></ol></div><div style="padding: 0pt; height: 444px; display: none;" class="panel-body navigation"><ol id="category-navigation" class="macro-list"><li id="navigation-macro-anchor" class="macro-list-item"><img src="editpage.action_files/anchor.png" alt="icon" title="Anchor" height="80" width="80">
+        <h3 class="macro-title">Anchor</h3>
+        <div class="macro-desc">Creates an anchor inside the page, which can be hyperlinked.</div>
+    </li><li id="navigation-macro-bookmarks" class="macro-list-item"><img src="editpage.action_files/bookmarks.png" alt="icon" title="Bookmarks" height="80" width="80">
+        <h3 class="macro-title">Bookmarks</h3>
+        <div class="macro-desc">Includes a list of bookmarks on a Confluence page.</div>
+    </li><li id="navigation-macro-children" class="macro-list-item"><img src="editpage.action_files/children.png" alt="icon" title="Children Display" height="80" width="80">
+        <h3 class="macro-title">Children Display</h3>
+        <div class="macro-desc">Lists a page's children and their descendant pages.</div>
+    </li><li id="navigation-macro-livesearch" class="macro-list-item"><img src="editpage.action_files/livesearch.png" alt="icon" title="Livesearch" height="80" width="80">
+        <h3 class="macro-title">Livesearch</h3>
+        <div class="macro-desc">Embeds a search box into your Confluence page to show search results as you type.</div>
+    </li><li id="navigation-macro-navmap" class="macro-list-item"><img src="editpage.action_files/navmap.png" alt="icon" title="Navigation Map" height="80" width="80">
+        <h3 class="macro-title">Navigation Map</h3>
+        <div class="macro-desc">Creates a map of pages associated with a specified label.</div>
+    </li><li id="navigation-macro-index" class="macro-list-item"><img src="editpage.action_files/pageindex.png" alt="icon" title="Page Index" height="80" width="80">
+        <h3 class="macro-title">Page Index</h3>
+        <div class="macro-desc">Creates an index of all pages within the space.</div>
+    </li><li id="navigation-macro-pagetree" class="macro-list-item"><img src="editpage.action_files/pagetree.png" alt="icon" title="Page Tree" height="80" width="80">
+        <h3 class="macro-title">Page Tree</h3>
+        <div class="macro-desc">Displays a dynamic, hierarchical list of pages starting from a specified parent (root) page.</div>
+    </li><li id="navigation-macro-pagetreesearch" class="macro-list-item"><img src="editpage.action_files/pagetreesearch.png" alt="icon" title="Page Tree Search" height="80" width="80">
+        <h3 class="macro-title">Page Tree Search</h3>
+        <div class="macro-desc">Provides a search box that searches a hierarchy of pages (Page Tree) from a specified root page.</div>
+    </li><li id="navigation-macro-search" class="macro-list-item"><img src="editpage.action_files/search.png" alt="icon" title="Search Results" height="80" width="80">
+        <h3 class="macro-title">Search Results</h3>
+        <div class="macro-desc">Searches your Confluence site based on specified terms and displays the results on the page.</div>
+    </li><li id="navigation-macro-toc-zone" class="macro-list-item">
+        <h3 class="macro-title">Table of Content Zone</h3>
+        <div class="macro-desc">Generates a table of contents based on the headings present within its body text zone.</div>
+    </li><li id="navigation-macro-toc" class="macro-list-item"><img src="editpage.action_files/toc.png" alt="icon" title="Table of Contents" height="80" width="80">
+        <h3 class="macro-title">Table of Contents</h3>
+        <div class="macro-desc">Generates a hyperlinked table of contents based on the headings present in the current page.</div>
+    </li></ol></div><div style="padding: 0pt; height: 444px; display: none;" class="panel-body reporting"><ol id="category-reporting" class="macro-list"><li id="reporting-macro-global-reports" class="macro-list-item">
+        <h3 class="macro-title">Global Reports</h3>
+        <div class="macro-desc">Displays a list of links to global reports.</div>
+    </li><li id="reporting-macro-details" class="macro-list-item">
+        <h3 class="macro-title">Metadata</h3>
+        <div class="macro-desc">Embeds metadata into pages and blog posts for presentation with the 'Metadata Summary' macro.</div>
+    </li><li id="reporting-macro-detailssummary" class="macro-list-item">
+        <h3 class="macro-title">Metadata Summary</h3>
+        <div class="macro-desc">Shows a tabulated report of metadata created with the 'Metadata' macro.</div>
+    </li><li id="reporting-macro-popular-labels" class="macro-list-item"><img src="editpage.action_files/popular-labels.png" alt="icon" title="Popular Labels" height="80" width="80">
+        <h3 class="macro-title">Popular Labels</h3>
+        <div class="macro-desc">Generates a list or 'heatmap' of the most popular labels.</div>
+    </li><li id="reporting-macro-userlister" class="macro-list-item">
+        <h3 class="macro-title">User List</h3>
+        <div class="macro-desc">Displays a list of Confluence users based on group membership.</div>
+    </li></ol></div><div style="height: 424px; display: none;" class="panel-body visuals"><ol id="category-visuals" class="macro-list"><li id="visuals-macro-chart" class="macro-list-item"><img src="editpage.action_files/chart.png" alt="icon" title="Chart" height="80" width="80">
+        <h3 class="macro-title">Chart</h3>
+        <div class="macro-desc">Displays a chart using data from the supplied table or tables.</div>
+    </li><li id="visuals-macro-gallery" class="macro-list-item"><img src="editpage.action_files/gallery.png" alt="icon" title="Gallery" height="80" width="80">
+        <h3 class="macro-title">Gallery</h3>
+        <div class="macro-desc">Creates a thumbnail gallery from a page's attachments.</div>
+    </li></ol></div></div><div class="button-panel"><button class="cancel">Cancel</button></div></div><div style="display: none;" class="dialog-components"><ul style="height: 485px; display: none;" class="page-menu"><li class="selected"><button>X</button></li></ul><div class="page-body"><div style="padding: 0pt; height: 487px;" class="panel-body macro-input-panel"><div id="macro-insert-container">
+        <input class="macro-name" type="hidden">
+        <div class="macro-preview-container dialog-panel">
+            <div class="macro-preview-header">
+                <a id="macro-browser-preview-link" href="#">Refresh</a>
+                <span>Preview</span>
+            </div>
+            <div id="macro-browser-preview" class="macro-preview"></div>
+        </div>
+        <div class="macro-input-fields dialog-panel"></div>
+    </div></div></div><div class="button-panel"><button class="back left">Back</button><button class="ok">Insert</button><button class="cancel">Cancel</button></div></div></div></body></html>

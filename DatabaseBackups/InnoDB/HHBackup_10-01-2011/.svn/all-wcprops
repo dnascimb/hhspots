@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/hhspots/!svn/ver/149/hhmain/DatabaseBackups/InnoDB/HHBackup_10-01-2011
+END
+hh_HOTSPOT.sql
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/hhspots/!svn/ver/149/hhmain/DatabaseBackups/InnoDB/HHBackup_10-01-2011/hh_HOTSPOT.sql
+END
+hh_GEOCountries.sql
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/hhspots/!svn/ver/149/hhmain/DatabaseBackups/InnoDB/HHBackup_10-01-2011/hh_GEOCountries.sql
+END
+hh_LOCATION.sql
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/hhspots/!svn/ver/149/hhmain/DatabaseBackups/InnoDB/HHBackup_10-01-2011/hh_LOCATION.sql
+END
+hh_USER_INTERESTS.sql
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/hhspots/!svn/ver/149/hhmain/DatabaseBackups/InnoDB/HHBackup_10-01-2011/hh_USER_INTERESTS.sql
+END
+hh_LABEL.sql
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/hhspots/!svn/ver/149/hhmain/DatabaseBackups/InnoDB/HHBackup_10-01-2011/hh_LABEL.sql
+END
+hh_HOTSPOT_HOTSPOTRATINGS.sql
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/hhspots/!svn/ver/149/hhmain/DatabaseBackups/InnoDB/HHBackup_10-01-2011/hh_HOTSPOT_HOTSPOTRATINGS.sql
+END
+hh_INTEREST.sql
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/hhspots/!svn/ver/149/hhmain/DatabaseBackups/InnoDB/HHBackup_10-01-2011/hh_INTEREST.sql
+END
+hh_LOCATION_LABELS.sql
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/hhspots/!svn/ver/149/hhmain/DatabaseBackups/InnoDB/HHBackup_10-01-2011/hh_LOCATION_LABELS.sql
+END
+hh_USER.sql
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/hhspots/!svn/ver/149/hhmain/DatabaseBackups/InnoDB/HHBackup_10-01-2011/hh_USER.sql
+END
+hh_GEOCities.sql
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/hhspots/!svn/ver/149/hhmain/DatabaseBackups/InnoDB/HHBackup_10-01-2011/hh_GEOCities.sql
+END
+hh_HOTSPOT_RATING.sql
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/hhspots/!svn/ver/149/hhmain/DatabaseBackups/InnoDB/HHBackup_10-01-2011/hh_HOTSPOT_RATING.sql
+END
+hh_GEODmas.sql
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/hhspots/!svn/ver/149/hhmain/DatabaseBackups/InnoDB/HHBackup_10-01-2011/hh_GEODmas.sql
+END
+hh_GEORegions.sql
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/hhspots/!svn/ver/149/hhmain/DatabaseBackups/InnoDB/HHBackup_10-01-2011/hh_GEORegions.sql
+END

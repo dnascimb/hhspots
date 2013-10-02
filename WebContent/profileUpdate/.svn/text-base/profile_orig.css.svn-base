@@ -1,0 +1,61 @@
+.wwFormTable
+	{
+		clear:both;
+		border:1px;
+		margin-left:auto;
+		margin-right:auto;
+		text-align:left;
+	}
+	
+#form2div
+	{
+		/*width:100%;*/
+		float: left;
+		margin:0px;
+		padding:0px 0 0 0px;
+		/* debug background-color:#8882aa;*/
+	}
+
+checkbox
+	{
+		
+		float:left;
+		margin:0px;
+		padding:0px 5px 0px 0px;
+		font-size:12px;
+		color:#95844d;
+		border:1px solid #ebffFF;
+		background-color:#ead28b;
+		/* debug background-color:#088000; */
+	}
+
+.loginbutton
+	{
+		width:100%;
+		float:left;
+		margin:0px;
+		padding:20px 0 0 0px;
+		/* debug background-color:#8882aa;*/
+	}
+
+.inputHomeLocation
+	{
+		width:300px;
+		height:19px;
+		float: left;
+		margin:0px;
+		padding:4px 0 0 4px;
+		font-family:Arial;
+		font-size:14px;
+		color:#95844d;
+		border:1px solid #ebffFF;
+		background-color:#ead28b;
+	}
+	
+label
+ 	{
+ 	/* for radio buttons and ddlb labels */
+		font-family:Arial;
+		font-size:14px;
+		color:#95844d;
+	}

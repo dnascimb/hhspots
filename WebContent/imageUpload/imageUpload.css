@@ -1,0 +1,155 @@
+/*
+ * CSS Reset
+ * http://meyerweb.com/eric/tools/css/reset/index.html
+ */
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, font, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: 0;
+	font-size: 100%;
+	vertical-align: baseline;
+	background: transparent;
+}
+
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+
+/* remember to define focus styles!   */
+:focus {
+	outline: 0;
+}
+
+/* remember to highlight inserts somehow! */
+ins {
+	text-decoration: none;
+}
+del {
+	text-decoration: line-through;
+}
+
+@font-face {
+    font-family: "Avenir-Black";
+    src: url("font/Avenir-Black.otf");
+}
+
+/* tables still need 'cellspacing="0"' in the markup */
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+
+/**LAYOUT**/
+html{ height:100%;}
+body{ background: url(/images/index/bg.png); height:100%; }
+#wrapper{ min-height: 100%; height: auto !important; height: 100%; margin-bottom:-75px;}
+#header-wrapper{ background: url(/images/index/header-bg.png) repeat-x; }
+#header{ width: 940px; margin: 0px auto; padding: 6px 0px 0px; background: url(/images/index/header-bg.png) repeat-x #fff; overflow: hidden; }
+#container{ background: #fff; margin: 0px auto; width: 889px; padding: 0px 36px 4px 15px; }
+#content{ width: 585px; float: left; background: url(/images/index/content-map.png) 2px 33px no-repeat; height: 414px; overflow: hidden; position: relative; }
+#content-two input.field { font: 12px Arial, Helvetica, sans-serif; color: #474747; margin-bottom: 6px; border: 1px solid #d0d0d0; height: 23px; line-height: 23px;  width: 219px; padding: 0px 5px; border-radius: 5px; -webkit-border-radius: 5px; -moz-border-radius: 5px; -o-border-radius: 5px; -khtml-border-radius: 5px;}
+#content-two input.field:focus { outline: 1px solid #6c0e4f; }
+.ie6 #sidebar{ margin: 0px; }  /* Fix for IE6 */
+.clear { clear: both; }
+.push { height:75px; }
+#footer-wrapper{ clear: both; width: 100%; height: 75px; background-color: #000; }
+#footer{ width: 940px; margin: 0px auto; height: 57px; padding: 9px 0px; }
+.label { display: block; margin: 0px; font: 10px Ariaal, Helvetica, sans-serif; font-weight: bold; color: #6c0e4f;}
+.wwgrp br { display: none; } /* removes useless line feed after labels from struts css_xhtml theme */
+
+
+/* Header Styles */
+
+#header .logo { float: left; margin: 0px 11px 0px 17px;}
+#header #profupdate-form { overflow: hidden; margin: 40px 0px 0px; }
+
+/* Content Styles */
+/* #profile-image has the properties for the profile image position and size.  Reuse here for .image-update.frame
+#profile-image{float:left; margin-top:100px; margin-left:10px; height:216px; width:216px; overflow:hidden}
+*/
+.image-update-frames {float: left; margin: 75px 0px 10px 25px; width:425px ;position:relative; overflow:hidden}
+
+.feedback { position: fixed; top: 155px; left: -1px; margin: 0px; }
+.ie6 .feedback { position: absolute; top: 155px; left: -1px; margin: 0px; } /* Fix for IE6 */
+#content .feedback:hover { opacity: 0.8; }
+#content p{ position: absolute; bottom: 15px; left: 45px; color: #444; font: 20px Avenir-Black, Arial, Helvetica, sans-serif; font-weight: bold; text-shadow: 2px 2px 2px #aaa; width: 430px; }
+#content img { margin-left: 21px; }
+
+/***************************************Profile update page**********************************/
+#header-wrapper-two{background: url(/images/index/header-bg2.jpg) repeat-x;}
+#header-two{ height:44px; width: 938px; margin: 0px auto; padding: 6px 0px 0px; position:relative; background: url(../images/index/header-bg2.jpg) repeat-x #fff;}
+#header-two .logo { position:absolute; left:6px; top:6px;}
+#main-nav {position:absolute; top:17px; left:194px; overflow:hidden;}
+#main-nav li{ border-right:1px solid #afafaf; border-left:1px solid #e4e4e4; float:left; font:11px Arial, Helvetica, sans-serif; font-weight:bold; margin:0 0 0 0px; padding:4px 12px;}
+#main-nav li:last-child{border-right:none;}
+#main-nav li:first-child{border-left:none;}
+#main-nav li a{color:#7e005c; display:inline-block; text-decoration:none; }
+#main-nav li a:hover{color:#000;}
+#main-nav li a:focus{color:#000;}
+#main-nav li a.active{color:#000;}
+
+#col1profile{background-color:#FFF; float:left; overflow:hidden; width:279px;}
+#col2profile{background-color:#FFF; border:1px solid #d3d3d3; margin: 0px auto; width:940px; height: 845px; overflow: hidden;}
+
+#content-two {font: 16px Arial, Helvetica, sans-serif; font-weight: bold; color: #6c0e4f; padding-left:33%; border-spacing:500px 500px;	}
+#content-two form label { display: block; margin: 0px 0px 5px;}
+#content-two form label.small { display: block; margin: 0px; font: 10px Arial, Helvetica, sans-serif; font-weight: bold; color: #6c0e4f;}
+#content-two form input.field { font: 12px Arial, Helvetica, sans-serif; color: #474747; margin-bottom: 6px; border: 1px solid #d0d0d0; height: 23px; line-height: 23px;  width: 219px; padding: 0px 5px;  border-radius: 5px; -webkit-border-radius: 5px; -moz-border-radius: 5px; -o-border-radius: 5px; -khtml-border-radius: 5px;}
+#content-two form input.field:focus { outline: 1px solid #6c0e4f; }
+
+/*
+#content-two .submit { background: url(/images/index/search-button.png) no-repeat; cursor: pointer; height: 14px; width: 21px; border: none; vertical-align: middle;}
+#content-two .submit:hover { position: relative; top: 1px; }
+*/
+.submit { background: url(/images/index/search-button.png) no-repeat; cursor: pointer; height: 14px; width: 21px; border: none; vertical-align: middle;}
+.submit:hover { position: relative; top: 1px; }
+#content-two .profupdate-form { background: url(images/index/sidebar-line.png) no-repeat center bottom; padding: 0px 0px 40px; margin: 0px 0px 18px; }
+
+/* Footer Styles */
+#footer p{ color: #777; float: left; font: 10px Arial, Helvetica, sans-serif; letter-spacing: 1px; padding: 0px 0px 0px 3px; }
+#footer ul{ float: right; font: 10px Arial, Helvetica, sans-serif; }
+#footer ul li{ display: inline; padding: 0px 8px; letter-spacing: .5px; background: url(/images/index/footer-nav-seperator.jpg) right center no-repeat; }
+#footer ul li.last { background: none; }
+#footer ul li a { color: #777; text-decoration: none; }
+#footer ul li a:hover,
+#footer ul li a
+
+/**** JQuery Tools ****/
+.modal { z-index:10000; background-color:#fff; display:none; width:350px; padding:15px;	text-align:left; border:1px solid #6a0051; opacity:0.8;	-moz-border-radius:6px;	-webkit-border-radius:6px; -moz-box-shadow: 0 0 50px #000; -webkit-box-shadow: 0 0 50px #000;	}
+.modal h2 {	font:bold 14px Arial, Helvetica, sans-serif; color: #6a0051; margin:0px; padding:10px 0 10px 5px; margin-bottom:-3px; }
+/**** JQuery Tools - End ****/
+/*------------------- LOCATION MODAL OVERLAY - END ------------------*/
+
+/* Buttons */
+.buttonDiv {overflow:hidden;}
+
+.button {background: transparent url('/images/bg_button_a.png') no-repeat scroll top right; color: #444; display: block; float: right; font: normal 12px arial, sans-serif; height: 24px; margin-right: 6px; padding-right: 18px; /* sliding doors padding */ text-decoration: none; }
+.button span { background: transparent url('/images/bg_button_span.png') no-repeat; display: block; line-height: 14px; padding: 5px 0 5px 18px; } 
+.button:active { background-position: bottom right; color: #000; outline: none; /* hide dotted outline in Firefox */ }
+.button:active span { background-position: bottom left; padding: 6px 0 4px 18px; /* push text down 1px */ }
+.button span:hover { color: #6c0e4f; font-weight: bold; }
+
+/* Buttons End */
+
+.ui-menu-item { font:normal 14px Arial, Helvetica, sans-serif; color: #6a0051; } /* autocomplete items */

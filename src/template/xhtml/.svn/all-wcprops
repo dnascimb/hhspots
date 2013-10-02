@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/hhspots/!svn/ver/4/hhmain/src/template/xhtml
+END
+radiomap.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/hhspots/!svn/ver/4/hhmain/src/template/xhtml/radiomap.ftl
+END
+checkboxlist.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/hhspots/!svn/ver/4/hhmain/src/template/xhtml/checkboxlist.ftl
+END
+checkbox.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/hhspots/!svn/ver/4/hhmain/src/template/xhtml/checkbox.ftl
+END
+select.ftl
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/hhspots/!svn/ver/4/hhmain/src/template/xhtml/select.ftl
+END

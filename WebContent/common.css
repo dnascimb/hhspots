@@ -1,0 +1,483 @@
+/***** Common Layout Stuff *****/
+body {
+	margin:0;
+	padding:0;
+	border:0;			/* This removes the border around the viewport in old versions of IE */
+	width:100%;
+	background:#f4e7bd;
+	min-width:600px;		/* Minimum width of layout - remove line if not required */
+					/* The min-width property does not work in old versions of Internet Explorer */
+	font-size:90%;
+}
+
+/* Header styles */
+#header {
+	clear:both;
+	float:left;
+	width:100%;
+	height:80px;
+	background-color:#8b2b01;
+}
+#header {
+	/*border-bottom:5px solid #c0943d;*/
+}
+
+/* 'widths' sub menu */
+#layoutdims {
+	clear:both;
+	background:#eee;
+	border-top:4px solid #000;
+	margin:0;
+	padding:6px 15px !important;
+	text-align:right;
+}
+/* column container */
+.colmask {
+	position:relative;	/* This fixes the IE7 overflow hidden bug */
+	clear:both;
+	float:left;
+	width:100%;			/* width of whole page */
+	overflow:hidden;		/* This chops off any overhanging divs */
+}
+/* common column settings */
+.colright,
+.colmid,
+.colleft {
+	float:left;
+	width:100%;			/* width of page */
+	position:relative;
+}
+.col1,
+.col2,
+.col3 {
+	float:left;
+	position:relative;
+	padding:0 0 1em 0;	/* no left and right padding on columns, we just make them narrower instead 
+					only padding top and bottom is included here, make it whatever value you need */
+	overflow:hidden;
+}
+/* 3 Column settings */
+.threecol {
+	background:#eddda3;		/* right column background colour */
+}
+.threecol .colmid {
+	right:25%;			/* width of the right column */
+	background:#f4e7bd;		/* center column background colour */
+}
+.threecol .colleft {
+	right:50%;			/* width of the middle column */
+	background:#eddda3;	/* left column background colour */
+}
+.threecol .col1 {
+	width:46%;			/* width of center column content (column width minus padding on either side) */
+	left:102%;			/* 100% plus left padding of center column */
+}
+.threecol .col2 {
+	width:21%;			/* Width of left column content (column width minus padding on either side) */
+	left:31%;			/* width of (right column) plus (center column left and right padding) plus (left column left padding) */
+}
+.threecol .col3 {
+	width:21%;			/* Width of right column content (column width minus padding on either side) */
+	left:85%;			/* Please make note of the brackets here:
+					(100% - left column width) plus (center column left and right padding) plus (left column left and right padding) plus (right column left padding) */
+}
+
+/* Footer styles */
+#footer {
+	clear:both;
+	float:left;
+	width:100%;
+	border-top:1px solid #000;
+}
+
+#footerlinks
+	{
+		width:100%;
+		float:left;
+/*		margin:25px 0 0 0;  */
+		margin:0px 0px 0px 0px;
+		padding:0px;
+		font-family:Arial;
+		font-size:11px;
+		font-weight:bold;
+		color:#ee7e1f;
+		text-align:center;
+		text-decoration:none;
+	}
+.footerlinks
+	{
+		font-family:Arial;
+		font-size:11px;
+		font-weight:bold;
+		color:#ee7e1f;
+		text-align:center;
+		text-decoration:none;
+		padding:0 3px 0 3px;
+	}
+.footerlinks:hover
+	{
+		font-family:Arial;
+		font-size:11px;
+		font-weight:bold;
+		color:#ee7e1f;
+		text-align:center;
+		text-decoration: underline;
+		padding:0 3px 0 3px;		
+	}
+#copyrights
+	{
+		width:100%;
+		float:left;
+		margin:5px 0 0 0;
+		padding:0px;
+		font-family:Arial;
+		font-size:11px;
+		color:#401400;
+		text-align:center;
+	}
+
+
+/*****  Headings  ******/
+.mainsectionheading
+	{
+		width:100%;
+		float: left;
+		margin:10px 0px;
+		padding:0px;
+		font-family:helvetica;
+		font-size:1.4em;
+		color:#7e8901;
+		/* debug background-color:#0000FF; */
+	}
+.col1 h2
+	{
+		width:100%;
+		float: left;
+		margin:0px;
+		padding:20px 0px;
+		font-family:helvetica;
+		font-size:1.4em;
+		font-weight:normal;
+		color:#7e8901;
+	}
+#sectionheading
+	{
+		width:100%;
+		height:21px;
+		float: left;
+		margin:20px 0 20px 0;
+		padding:0 0px 0 0;
+		font-family:helvetica;
+		font-size:1.2em;
+		color:#000;
+		/* debug background-color:#888222; */
+	}
+#sectionheading h4
+	{
+		width:100%;
+		height:21px;
+		float: left;
+		margin:0px 0;
+		padding:0px 0 0px 0;
+		font-family:helvetica;
+		font-size:1.2em;
+		font-weight:normal;
+		color:#000;
+	}
+
+
+/***** Messages *****/
+.actionMessage
+	{
+		font-family:Arial;
+		font-size:14px;
+		font-weight:bold;
+		color:#02880f;
+		border:1px solid #00c412;
+		background-color:#b9d3bc;
+		list-style:none;
+	}
+.actionMessage li
+	{
+		padding:5px 5px 5px 5px;
+		align:left;
+	}
+.errorMessage
+	{
+		font-family:Arial;
+		font-size:14px;
+		color:red;
+		align:left;
+	}	
+.errorMessage li
+	{
+		padding:5px 5px 5px 5px;
+		border:1px solid red;
+		background-color:#fdcfcf;
+		list-style:none;
+		
+	}
+	
+	
+/*****  Forms  *****/
+.lpad
+	{
+		padding:0 0 0 10px;
+	}	
+.label
+	{
+		clear:both;
+		float:right;
+		margin:0px;
+		padding:0 0 5px 0;
+		font-family:Arial;
+		font-size:1.0em;
+		/*font-weight:bold;*/
+		color:#95844d;
+		/* debug background-color:#FFFFFF;*/
+	}
+.tdLabel
+	{
+		clear:both;
+		float:right;
+		margin:0px;
+		padding:0 5px 5px 0;
+		font-family:Arial;
+		font-size:1.0em;
+		color:#95844d;
+		/* debug background-color:#FFFF33;*/
+	}
+.readonlyresult
+	{
+		clear:both;
+		margin:0px;
+		padding:0 0 5px 10px;
+		font-family:Arial;
+		font-size:1.0em;
+		font-weight:bold;
+		color:#95844d;
+		/* debug background-color:#FFFFFF;*/
+	}
+.inputlogin
+	{
+		width:150px;
+		height:19px;
+		float: left;
+		margin:0px;
+		padding:4px 0 0 4px;
+		font-family:Arial;
+		font-size:14px;
+		color:#95844d;
+		border:1px solid #ebffFF;
+		background-color:#ead28b;
+	}
+
+.dropdown
+	{
+		height:21px;
+		float: left;
+		margin:0px;
+		padding:2px 2px 2px 2px;
+		font-family:Arial;
+		font-size:14px;
+		color:#95844d;
+		border:1px solid #ebffFF;
+		background-color:#ead28b;
+	}
+.checkbox
+	{
+		
+		float:left;
+		margin:0px;
+		padding:0px 5px 0px 0px;
+		font-size:12px;
+		color:#95844d;
+		border:1px solid #ebffFF;
+		background-color:#ead28b;
+		/* debug background-color:#088000; */
+	}
+.formNote
+	{
+		font-size:10px;
+		color:#555;
+		font-weight:400;
+		vertical-align:top;
+	}
+		
+/******   Buttons   ******/	
+.clear { /* generic container (i.e. div) for floating buttons */
+    overflow: hidden;
+    width: 100%;
+}
+a.button {
+    background: transparent url('/images/bg_button_a.png') no-repeat scroll top right;
+    color: #444;
+    display: block;
+    float: left;
+    font: normal 12px arial, sans-serif;
+    height: 24px;
+    margin-right: 6px;
+    padding-right: 18px; /* sliding doors padding */
+    text-decoration: none;
+}
+
+a.button span {
+    background: transparent url('/images/bg_button_span.png') no-repeat;
+    display: block;
+    line-height: 14px;
+    padding: 5px 0 5px 18px;
+} 
+a.button:active {
+    background-position: bottom right;
+    color: #000;
+    outline: none; /* hide dotted outline in Firefox */
+}
+a.button:active span {
+    background-position: bottom left;
+    padding: 6px 0 4px 18px; /* push text down 1px */
+} 
+.submitbutton
+	{
+		width:30%;
+		float: left;
+		margin:0px 0px;
+		padding:0px 0 0px 0px;
+		/* debug background-color:#FF7788; */
+	}
+	
+/**** Menus ****/
+#menu {
+	clear:left;
+	float:left;
+	padding:0;
+	background:#eddda3;
+	border-bottom:1px solid #7E7567;
+	width:100%;
+	border-top:4px solid #c0943d;
+	overflow:hidden;
+	font-family:Verdana, sans-serif;
+}
+#menu ul {
+	float:left;
+	margin:0;
+	padding:0;
+	list-style:none;
+	position:relative;
+	left:50%;
+	text-align:center;
+}
+#menu ul li {
+	display:block;
+	float:left;
+	list-style:none;
+	margin:0;
+	padding:0;
+	position:relative;
+	right:50%;
+}
+#menu ul li.menu_first {
+	border-left:1px solid #7E7567;
+}
+#menu ul li.menu_last {
+	border-right:1px solid #ECE9D8;
+}
+#menu ul li a {
+	display:block;
+	float:left;
+	margin:0;
+	padding:8px 10px 4px 10px;
+	border-left:1px solid #ECE9D8;
+	border-right:1px solid #7E7567;
+	text-decoration:none;
+	color:#7D6A46;
+	font-size:.8em;
+	font-weight:bold;
+	text-transform:uppercase;
+	line-height:1.3em;
+}
+#menu ul li a:hover {
+	color:#c0943d;
+	background-color:#ECE9D8;
+	border-left:1px solid #fff;
+	padding-top:6px;
+	padding-bottom:6px;
+}
+#menu ul li.menu_last_active,
+#menu ul li.menu_active a,
+#menu ul li.menu_active a:hover {
+	color:#fff;
+	background:#c0943d;
+	border-left:1px solid #7D6A46;
+	padding-top:6px;
+	padding-bottom:6px;
+}
+
+/***** Header *****/
+.headercolmask {
+	position:relative;	/* This fixes the IE7 overflow hidden bug */
+	clear:both;
+	float:left;
+	width:100%;			/* width of whole page */
+	overflow:hidden;		/* This chops off any overhanging divs */
+}
+.headerthreecol {
+	background:#8b2b01;		/* right column background colour */
+	height:80px;
+}
+.headerthreecol .headercolmid {
+	right:25%;			/* width of the right column */
+	background:#8b2b01;		/* center column background colour */
+	height:80px;
+}
+.headerthreecol .headercolleft {
+	right:50%;			/* width of the middle column */
+	background:#8b2b01;	/* left column background colour */
+	height:80px;
+}
+.headerthreecol .headercol1 {
+	width:46%;			/* width of center column content (column width minus padding on either side) */
+	left:102%;			/* 100% plus left padding of center column */
+}
+.headerthreecol .headercol2 {
+	width:21%;			/* Width of left column content (column width minus padding on either side) */
+	left:31%;			/* width of (right column) plus (center column left and right padding) plus (left column left padding) */
+}
+.headerthreecol .headercol3 {
+	width:21%;			/* Width of right column content (column width minus padding on either side) */
+	left:85%;			/* Please make note of the brackets here:
+					(100% - left column width) plus (center column left and right padding) plus (left column left and right padding) plus (right column left padding) */
+}
+.headercolright,
+.headercolmid,
+.headercolleft {
+	float:left;
+	width:100%;			/* width of page */
+	position:relative;
+}
+.headercol1,
+.headercol2,
+.headercol3 {
+	float:left;
+	position:relative;
+	padding:0 0 1em 0;	/* no left and right padding on columns, we just make them narrower instead 
+					only padding top and bottom is included here, make it whatever value you need */
+	overflow:hidden;
+}
+.searchbox {
+	padding: 20px 0 0 0;
+}
+.inputsearch
+	{
+		width:250px;
+		height:19px;
+		float: left;
+		margin:0px;
+		padding:4px 0 0 4px;
+		font-family:Arial;
+		font-size:14px;
+		color:#95844d;
+		border:1px solid #ebffFF;
+		background-color:#ead28b;
+	}
+
+
